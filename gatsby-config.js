@@ -2,6 +2,7 @@ require("dotenv").config()
 
 var proxy = require("http-proxy-middleware")
 module.exports = {
+  pathPrefix: `/blog`,
   // for avoiding CORS while developing Netlify Functions locally
   // read more: https://www.gatsbyjs.org/docs/api-proxy/#advanced-proxying
   developMiddleware: app => {
@@ -15,10 +16,6 @@ module.exports = {
       })
     )
   },
-  // ...
-}
-
-module.exports = {
   plugins: [
     {
       resolve: `gatsby-theme-blog`,
