@@ -4,14 +4,6 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
-    {
-      resolve: 'gatsby-source-graphql',
-      options: {
-        typeName: 'LobbyAPI',
-        fieldName: 'lobby',
-        url: '/.netlify/functions/graphql',
-      }
-    }
   ],
   // Customize your site metadata:
   siteMetadata: {
