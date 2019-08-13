@@ -4,9 +4,9 @@ import Layout from 'gatsby-theme-blog/src/components/layout'
 
 export default function donations() {
   return (
-    <div>
-      <h1>hi</h1>
+    <Layout location='/donations' title='Home'>
+      <h2>Donaciones a funcionarios del gobierno</h2>
       <GetDonations />
-    </div>
+    </Layout>
   )
 }
