@@ -8,8 +8,9 @@
     "start:app": "npm run develop",
     "start:lambda": "netlify-lambda serve src/lambda",
     "build": "run-p build:**",
-    "build:app": "gatsby build",
-    "build:lambda": "netlify-lambda build src/lambda"
+    "build:app": "npm run clean && gatsby build --prefix-paths && npm run move",
+    "build:lambda": "netlify-lambda build src/lambda",
+    "move": "cd public && mkdir blog | mv * blog"
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.0.0",
