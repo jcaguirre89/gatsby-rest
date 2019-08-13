@@ -9,7 +9,7 @@
     "start:lambda": "netlify-lambda serve src/lambda",
     "build": "run-p build:**",
     "build:app": "gatsby build",
-    "build:lambda": "netlify-lambda build src/lambda",
+    "build:lambda": "netlify-lambda build src/lambda"
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.0.0",
