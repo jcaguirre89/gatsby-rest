@@ -4,10 +4,10 @@
   "version": "0.0.1",
   "scripts": {
     "develop": "gatsby develop",
-    "start": "run-p start:**",
+    "start": "gatsby develop",
     "start:app": "npm run develop",
     "start:lambda": "netlify-lambda serve src/lambda",
-    "build": "run-p build:**",
+    "build": "gatsby build",
     "build:app": "gatsby build",
     "build:lambda": "netlify-lambda build src/lambda"
   },
