@@ -1,27 +1,26 @@
 const resolvers = {
   Query: {
-    donativo: async (parent, { donativoId }, { dataSources }) => {
-      const donativo = await dataSources.lobbyAPI.getADonativo(donativoId);
+    donation: async (parent, { donationId }, { dataSources }) => {
+      const donation = await dataSources.lobbyAPI.getADonation(donationId);
       return {
         donativo: {
-          id_donativo: donativo.id_donativo,
-          nombres: donativo.nombres,
-          apellidos: donativo.apellidos,
-          pais: donativo.pais,
-          cargo: donativo.cargo,
-          ocasion: donativo.ocasion,
-          descripcion: donativo.descripcion,
-          fecha: donativo.fecha,
-          nombre_institucion: donativo.institucion.nombre,
+          id_donativo: donation.id_donativo,
+          nombres: donation.nombres,
+          apellidos: donation.apellidos,
+          pais: donation.pais,
+          cargo: donation.cargo,
+          ocasion: donation.ocasion,
+          descripcion: donation.descripcion,
+          fecha: donation.fecha,
+          nombre_institucion: donation.institucion.nombre,
         },
-        donantes: donativo.donantes
+        donantes: donation.donantes
       }
     },
-    donativos: async (parent, args, { dataSources }) => {
-      const page = args.page || null
-      const institucionId = args.institucionId || null
-      const donativos = await dataSources.lobbyAPI.getAllDonativos(page, institucionId);
-      return donativos;
+    donations: async (parent, args, { dataSources }) => {
+      const { page, institutionId } = args
+      const donativos = await dataSources.lobbyAPI.getAllDonativos(page, institutionId);
+      return donations;
     },
   }
 }
