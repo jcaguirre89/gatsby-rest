@@ -7,11 +7,11 @@ const typeDefs = gql`
   scalar DateTime
 
   type Query {
-    donativos(page: Int, donativoId: Int): [Donativo!]!
-    donativo(donativoId: Int!): DonativoDetalle!
+    donations(page: Int, institutionId: Int): [Donation!]!
+    donation(donationId: Int!): DonationDetail!
   }
 
-  type Donativo {
+  type Donation {
     id_donativo: Int!
     nombres: String!
     apellidos: String!
@@ -23,22 +23,22 @@ const typeDefs = gql`
     nombre_institucion: String
   }
 
-  type DonativoDetalle {
-    donativo: Donativo!
-    donantes: [Donante!]!
+  type DonationDetail {
+    donation: Donation!
+    donantes: [Donor!]!
   }
 
-  type Donante {
+  type Donor {
     id_donativo: Int!
     nombre: String!
-      pais: String!
-      tipo: String!
-      giro: String
-      actividades: String
-      domicilio: String
-      representante_legal: String
-      naturaleza: String
-      directorio: String
+    pais: String!
+    tipo: String!
+    giro: String
+    actividades: String
+    domicilio: String
+    representante_legal: String
+    naturaleza: String
+    directorio: String
   }
 `;
 
