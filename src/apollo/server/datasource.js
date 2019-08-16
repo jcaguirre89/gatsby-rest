@@ -7,16 +7,16 @@ class LobbyAPI extends RESTDataSource {
     this.httpCache = new HTTPCache();
   }
 
-  async getAllDonativos(page, institucionId) {
+  async getAllDonations(page, institutionId) {
     const donations = await this.get('donativos/', {
       page,
-      institucionId,
+      institutionId,
     });
     return donations.data;
   }
 
-  async getADonativo(donativoId) {
-    const result = await this.get(`donativos/${donativoId}`);
+  async getADonation(donationId) {
+    const result = await this.get(`donativos/${donationId}`);
     return result;
   }
 }
