@@ -5,7 +5,7 @@ import {useQuery} from '@apollo/react-hooks'
 
 const GET_DONATIONS = gql`
 query getDonations($page: Int) {
-  donativos(page: $page) {
+  donations(page: $page) {
     id_donativo
     nombres
     apellidos
@@ -29,7 +29,7 @@ export default function GetDonations() {
   }
 
   const renderTable = () => {
-    return data.donativos.map(donativo => (
+    return data.donations.map(donativo => (
       <Tr key={donativo.id_donativo}>
         <Td>{donativo.id_donativo}</Td>
         <Td>{`${donativo.nombres} ${donativo.apellidos}`}</Td>
@@ -56,7 +56,7 @@ export default function GetDonations() {
         </thead>
         <tbody>
           {loading && <tr><td>Loading</td></tr>}
-          {data.donativos && data.donativos.length>0 && renderTable()}
+          {data.donations && data.donations.length>0 && renderTable()}
         </tbody>
       </T>
     </div>
