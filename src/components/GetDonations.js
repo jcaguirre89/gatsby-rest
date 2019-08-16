@@ -42,7 +42,9 @@ export default function GetDonations() {
   }
   return (
     <div>
-      <div><input type="number" value={page} onChange={handleChange} /></div>
+      <div>
+        <input type="number" value={page} onChange={handleChange} />
+      </div>
       <T>
         <thead>
           <Tr>
@@ -55,8 +57,14 @@ export default function GetDonations() {
           </Tr>
         </thead>
         <tbody>
-          {loading && <tr><td>Loading</td></tr>}
-          {data.donations && data.donations.length>0 && renderTable()}
+          {loading ? (
+            <tr>
+              <td>Loading</td>
+            </tr>
+          ) : (
+            renderTable()
+          )}
+          {/* }{data.donations && data.donations.length > 0 && renderTable()} */}
         </tbody>
       </T>
     </div>

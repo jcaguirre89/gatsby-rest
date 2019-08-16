@@ -87,9 +87,9 @@
 /******/ ({
 
 /***/ "../../node_modules/@apollographql/apollo-tools/lib/buildServiceDefinition.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/buildServiceDefinition.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/buildServiceDefinition.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -263,9 +263,9 @@ function addResolversToSchema(schema, resolvers) {
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/apollo-tools/lib/index.js":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/index.js ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/index.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -283,9 +283,9 @@ __export(__webpack_require__(/*! ./buildServiceDefinition */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/apollo-tools/lib/utilities/graphql.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/graphql.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/graphql.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -306,9 +306,9 @@ exports.isDocumentNode = isDocumentNode;
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/apollo-tools/lib/utilities/index.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/index.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/index.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -326,9 +326,9 @@ __export(__webpack_require__(/*! ./graphql */ "../../node_modules/@apollographql
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/apollo-tools/lib/utilities/invariant.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/invariant.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/invariant.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -346,9 +346,9 @@ exports.invariant = invariant;
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/apollo-tools/lib/utilities/predicates.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/predicates.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/apollo-tools/lib/utilities/predicates.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -364,9 +364,9 @@ exports.isNotNullOrUndefined = isNotNullOrUndefined;
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/graphql-playground-html/dist/get-loading-markup.js":
-/*!**************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/graphql-playground-html/dist/get-loading-markup.js ***!
-  \**************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/graphql-playground-html/dist/get-loading-markup.js ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -383,9 +383,9 @@ exports.default = getLoadingMarkup;
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/graphql-playground-html/dist/index.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/graphql-playground-html/dist/index.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/graphql-playground-html/dist/index.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -399,9 +399,9 @@ exports.renderPlaygroundPage = render_playground_page_1.renderPlaygroundPage;
 /***/ }),
 
 /***/ "../../node_modules/@apollographql/graphql-playground-html/dist/render-playground-page.js":
-/*!******************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@apollographql/graphql-playground-html/dist/render-playground-page.js ***!
-  \******************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@apollographql/graphql-playground-html/dist/render-playground-page.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -449,9 +449,9 @@ exports.renderPlaygroundPage = renderPlaygroundPage;
 /***/ }),
 
 /***/ "../../node_modules/@protobufjs/aspromise/index.js":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@protobufjs/aspromise/index.js ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@protobufjs/aspromise/index.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -513,9 +513,9 @@ function asPromise(fn, ctx/*, varargs */) {
 /***/ }),
 
 /***/ "../../node_modules/@protobufjs/base64/index.js":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@protobufjs/base64/index.js ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@protobufjs/base64/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -664,9 +664,9 @@ base64.test = function test(string) {
 /***/ }),
 
 /***/ "../../node_modules/@protobufjs/eventemitter/index.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@protobufjs/eventemitter/index.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@protobufjs/eventemitter/index.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -752,9 +752,9 @@ EventEmitter.prototype.emit = function emit(evt) {
 /***/ }),
 
 /***/ "../../node_modules/@protobufjs/float/index.js":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@protobufjs/float/index.js ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@protobufjs/float/index.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1099,9 +1099,9 @@ function readUintBE(buf, pos) {
 /***/ }),
 
 /***/ "../../node_modules/@protobufjs/inquire/index.js":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@protobufjs/inquire/index.js ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@protobufjs/inquire/index.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1128,9 +1128,9 @@ function inquire(moduleName) {
 /***/ }),
 
 /***/ "../../node_modules/@protobufjs/pool/index.js":
-/*!**********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@protobufjs/pool/index.js ***!
-  \**********************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@protobufjs/pool/index.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1188,9 +1188,9 @@ function pool(alloc, slice, size) {
 /***/ }),
 
 /***/ "../../node_modules/@protobufjs/utf8/index.js":
-/*!**********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@protobufjs/utf8/index.js ***!
-  \**********************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@protobufjs/utf8/index.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1305,9 +1305,9 @@ utf8.write = function utf8_write(string, buffer, offset) {
 /***/ }),
 
 /***/ "../../node_modules/@wry/equality/lib/equality.esm.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/@wry/equality/lib/equality.esm.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/@wry/equality/lib/equality.esm.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default, equal */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1448,9 +1448,9 @@ function previouslyCompared(a, b) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-control/dist/index.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-cache-control/dist/index.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-cache-control/dist/index.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1594,9 +1594,9 @@ function mergeHints(hint, otherHint) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-datasource-rest/dist/HTTPCache.js":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-datasource-rest/dist/HTTPCache.js ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-datasource-rest/dist/HTTPCache.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1721,9 +1721,9 @@ function headersToObject(headers) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-datasource-rest/dist/RESTDataSource.js":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-datasource-rest/dist/RESTDataSource.js ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-datasource-rest/dist/RESTDataSource.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1933,9 +1933,9 @@ exports.RESTDataSource = RESTDataSource;
 /***/ }),
 
 /***/ "../../node_modules/apollo-datasource-rest/dist/index.js":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-datasource-rest/dist/index.js ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-datasource-rest/dist/index.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1954,9 +1954,9 @@ exports.Response = apollo_server_env_1.Response;
 /***/ }),
 
 /***/ "../../node_modules/apollo-datasource/dist/index.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-datasource/dist/index.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-datasource/dist/index.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1971,9 +1971,9 @@ exports.DataSource = DataSource;
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting-protobuf/dist/index.js":
-/*!*******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting-protobuf/dist/index.js ***!
-  \*******************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting-protobuf/dist/index.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2013,9 +2013,9 @@ module.exports = protobuf;
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting-protobuf/dist/protobuf.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting-protobuf/dist/protobuf.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting-protobuf/dist/protobuf.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13358,9 +13358,9 @@ module.exports = $root;
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting/dist/agent.js":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting/dist/agent.js ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting/dist/agent.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13645,9 +13645,9 @@ function makeSendValuesBaseOptionsFromLegacy(legacyPrivateOption) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting/dist/extension.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting/dist/extension.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting/dist/extension.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13853,9 +13853,9 @@ exports.makeHTTPRequestHeaders = makeHTTPRequestHeaders;
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting/dist/federatedExtension.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting/dist/federatedExtension.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting/dist/federatedExtension.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13912,9 +13912,9 @@ exports.EngineFederatedTracingExtension = EngineFederatedTracingExtension;
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting/dist/index.js":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting/dist/index.js ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting/dist/index.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13930,9 +13930,9 @@ exports.EngineFederatedTracingExtension = federatedExtension_1.EngineFederatedTr
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting/dist/treeBuilder.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting/dist/treeBuilder.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting/dist/treeBuilder.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14093,9 +14093,9 @@ function dateToProtoTimestamp(date) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-engine-reporting/package.json":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-engine-reporting/package.json ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-engine-reporting/package.json ***!
+  \******************************************************************************************************/
 /*! exports provided: name, version, description, main, types, license, repository, author, engines, dependencies, gitHead, default */
 /***/ (function(module) {
 
@@ -14104,9 +14104,9 @@ module.exports = JSON.parse("{\"name\":\"apollo-engine-reporting\",\"version\":\
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/fetch/fetch.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/fetch/fetch.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/fetch/fetch.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14123,9 +14123,9 @@ exports.Headers = node_fetch_1.Headers;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/fetch/index.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/fetch/index.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/fetch/index.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14142,9 +14142,9 @@ __export(__webpack_require__(/*! ./url */ "../../node_modules/apollo-env/lib/fet
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/fetch/url.js":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/fetch/url.js ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/fetch/url.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14159,9 +14159,9 @@ exports.URLSearchParams = url_1.URLSearchParams;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/index.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/index.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/index.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14179,9 +14179,9 @@ __export(__webpack_require__(/*! ./utils */ "../../node_modules/apollo-env/lib/u
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/polyfills/array.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/polyfills/array.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/polyfills/array.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14195,9 +14195,9 @@ __webpack_require__(/*! core-js/features/array/flat-map */ "../../node_modules/a
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/polyfills/index.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/polyfills/index.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/polyfills/index.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14211,9 +14211,9 @@ __webpack_require__(/*! ./object */ "../../node_modules/apollo-env/lib/polyfills
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/polyfills/object.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/polyfills/object.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/polyfills/object.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14226,9 +14226,9 @@ __webpack_require__(/*! core-js/features/object/from-entries */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/utils/createHash.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/utils/createHash.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/utils/createHash.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14248,9 +14248,9 @@ exports.createHash = createHash;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/utils/index.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/utils/index.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/utils/index.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14269,9 +14269,9 @@ __export(__webpack_require__(/*! ./predicates */ "../../node_modules/apollo-env/
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/utils/isNodeLike.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/utils/isNodeLike.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/utils/isNodeLike.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14288,9 +14288,9 @@ exports.isNodeLike = typeof process === "object" &&
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/utils/mapValues.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/utils/mapValues.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/utils/mapValues.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14310,9 +14310,9 @@ exports.mapValues = mapValues;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/lib/utils/predicates.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/lib/utils/predicates.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/lib/utils/predicates.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14328,9 +14328,9 @@ exports.isNotNullOrUndefined = isNotNullOrUndefined;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/es/array/flat-map.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/es/array/flat-map.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/es/array/flat-map.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14344,9 +14344,9 @@ module.exports = entryUnbind('Array', 'flatMap');
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/es/array/flat.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/es/array/flat.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/es/array/flat.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14360,9 +14360,9 @@ module.exports = entryUnbind('Array', 'flat');
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/es/object/from-entries.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/es/object/from-entries.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/es/object/from-entries.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14376,9 +14376,9 @@ module.exports = path.Object.fromEntries;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/features/array/flat-map.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/features/array/flat-map.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/features/array/flat-map.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14388,9 +14388,9 @@ module.exports = __webpack_require__(/*! ../../es/array/flat-map */ "../../node_
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/features/array/flat.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/features/array/flat.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/features/array/flat.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14400,9 +14400,9 @@ module.exports = __webpack_require__(/*! ../../es/array/flat */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/features/object/from-entries.js":
-/*!************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/features/object/from-entries.js ***!
-  \************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/features/object/from-entries.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14412,9 +14412,9 @@ module.exports = __webpack_require__(/*! ../../es/object/from-entries */ "../../
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/a-function.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/a-function.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/a-function.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14428,9 +14428,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/a-possible-prototype.js":
-/*!**************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/a-possible-prototype.js ***!
-  \**************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/a-possible-prototype.js ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14446,9 +14446,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/add-to-unscopables.js":
-/*!************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/add-to-unscopables.js ***!
-  \************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/add-to-unscopables.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14474,9 +14474,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/an-object.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/an-object.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/an-object.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14492,9 +14492,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/array-includes.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/array-includes.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/array-includes.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14535,9 +14535,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/array-species-create.js":
-/*!**************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/array-species-create.js ***!
-  \**************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/array-species-create.js ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14566,9 +14566,9 @@ module.exports = function (originalArray, length) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/bind-context.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/bind-context.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/bind-context.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14601,9 +14601,9 @@ module.exports = function (fn, that, length) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/call-with-safe-iteration-closing.js":
-/*!**************************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
-  \**************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/call-with-safe-iteration-closing.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14625,9 +14625,9 @@ module.exports = function (iterator, fn, value, ENTRIES) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/classof-raw.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/classof-raw.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/classof-raw.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14641,9 +14641,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/classof.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/classof.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/classof.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14677,9 +14677,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/copy-constructor-properties.js":
-/*!*********************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/copy-constructor-properties.js ***!
-  \*********************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/copy-constructor-properties.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14702,9 +14702,9 @@ module.exports = function (target, source) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/correct-prototype-getter.js":
-/*!******************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/correct-prototype-getter.js ***!
-  \******************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/correct-prototype-getter.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14720,9 +14720,9 @@ module.exports = !fails(function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/create-iterator-constructor.js":
-/*!*********************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/create-iterator-constructor.js ***!
-  \*********************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/create-iterator-constructor.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14748,9 +14748,9 @@ module.exports = function (IteratorConstructor, NAME, next) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/create-property-descriptor.js":
-/*!********************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/create-property-descriptor.js ***!
-  \********************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/create-property-descriptor.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14767,9 +14767,9 @@ module.exports = function (bitmap, value) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/create-property.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/create-property.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/create-property.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14789,9 +14789,9 @@ module.exports = function (object, key, value) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/define-iterator.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/define-iterator.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/define-iterator.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14891,9 +14891,9 @@ module.exports = function (Iterable, NAME, IteratorConstructor, next, DEFAULT, I
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/descriptors.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/descriptors.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/descriptors.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14908,9 +14908,9 @@ module.exports = !fails(function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/document-create-element.js":
-/*!*****************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/document-create-element.js ***!
-  \*****************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/document-create-element.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14929,9 +14929,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/entry-unbind.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/entry-unbind.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/entry-unbind.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14948,9 +14948,9 @@ module.exports = function (CONSTRUCTOR, METHOD, length) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/enum-bug-keys.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/enum-bug-keys.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/enum-bug-keys.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14969,9 +14969,9 @@ module.exports = [
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/export.js":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/export.js ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/export.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15034,9 +15034,9 @@ module.exports = function (options, source) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/fails.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/fails.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/fails.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15052,9 +15052,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/flatten-into-array.js":
-/*!************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/flatten-into-array.js ***!
-  \************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/flatten-into-array.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15096,9 +15096,9 @@ module.exports = flattenIntoArray;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/function-to-string.js":
-/*!************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/function-to-string.js ***!
-  \************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/function-to-string.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15110,9 +15110,9 @@ module.exports = shared('native-function-to-string', Function.toString);
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/get-built-in.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/get-built-in.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/get-built-in.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15132,9 +15132,9 @@ module.exports = function (namespace, method) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/get-iterator-method.js":
-/*!*************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/get-iterator-method.js ***!
-  \*************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/get-iterator-method.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15154,9 +15154,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/global.js":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/global.js ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/global.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15179,9 +15179,9 @@ module.exports =
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/has.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/has.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/has.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15195,9 +15195,9 @@ module.exports = function (it, key) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/hidden-keys.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/hidden-keys.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/hidden-keys.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15207,9 +15207,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/hide.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/hide.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/hide.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15228,9 +15228,9 @@ module.exports = DESCRIPTORS ? function (object, key, value) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/html.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/html.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/html.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15242,9 +15242,9 @@ module.exports = getBuiltIn('document', 'documentElement');
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/ie8-dom-define.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/ie8-dom-define.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/ie8-dom-define.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15263,9 +15263,9 @@ module.exports = !DESCRIPTORS && !fails(function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/indexed-object.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/indexed-object.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/indexed-object.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15287,9 +15287,9 @@ module.exports = fails(function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/internal-state.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/internal-state.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/internal-state.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15359,9 +15359,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/is-array-iterator-method.js":
-/*!******************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-array-iterator-method.js ***!
-  \******************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-array-iterator-method.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15380,9 +15380,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/is-array.js":
-/*!**************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-array.js ***!
-  \**************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-array.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15398,9 +15398,9 @@ module.exports = Array.isArray || function isArray(arg) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/is-forced.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-forced.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-forced.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15430,9 +15430,9 @@ module.exports = isForced;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/is-object.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-object.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-object.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15444,9 +15444,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/is-pure.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-pure.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/is-pure.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15456,9 +15456,9 @@ module.exports = false;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/iterate.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/iterate.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/iterate.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15509,9 +15509,9 @@ iterate.stop = function (result) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/iterators-core.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/iterators-core.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/iterators-core.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15556,9 +15556,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/iterators.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/iterators.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/iterators.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15568,9 +15568,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/native-symbol.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/native-symbol.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/native-symbol.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15586,9 +15586,9 @@ module.exports = !!Object.getOwnPropertySymbols && !fails(function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/native-weak-map.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/native-weak-map.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/native-weak-map.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15603,9 +15603,9 @@ module.exports = typeof WeakMap === 'function' && /native code/.test(nativeFunct
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-create.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-create.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-create.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15663,9 +15663,9 @@ hiddenKeys[IE_PROTO] = true;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-define-properties.js":
-/*!******************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-define-properties.js ***!
-  \******************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-define-properties.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15690,9 +15690,9 @@ module.exports = DESCRIPTORS ? Object.defineProperties : function defineProperti
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-define-property.js":
-/*!****************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-define-property.js ***!
-  \****************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-define-property.js ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15721,9 +15721,9 @@ exports.f = DESCRIPTORS ? nativeDefineProperty : function defineProperty(O, P, A
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-descriptor.js":
-/*!****************************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
-  \****************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-descriptor.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15752,9 +15752,9 @@ exports.f = DESCRIPTORS ? nativeGetOwnPropertyDescriptor : function getOwnProper
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-names.js":
-/*!***********************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-names.js ***!
-  \***********************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-names.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15773,9 +15773,9 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-symbols.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
-  \*************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-own-property-symbols.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -15785,9 +15785,9 @@ exports.f = Object.getOwnPropertySymbols;
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-get-prototype-of.js":
-/*!*****************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-prototype-of.js ***!
-  \*****************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-get-prototype-of.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15813,9 +15813,9 @@ module.exports = CORRECT_PROTOTYPE_GETTER ? Object.getPrototypeOf : function (O)
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-keys-internal.js":
-/*!**************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-keys-internal.js ***!
-  \**************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-keys-internal.js ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15841,9 +15841,9 @@ module.exports = function (object, names) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-keys.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-keys.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-keys.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15860,9 +15860,9 @@ module.exports = Object.keys || function keys(O) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-property-is-enumerable.js":
-/*!***********************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-property-is-enumerable.js ***!
-  \***********************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-property-is-enumerable.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15885,9 +15885,9 @@ exports.f = NASHORN_BUG ? function propertyIsEnumerable(V) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/object-set-prototype-of.js":
-/*!*****************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-set-prototype-of.js ***!
-  \*****************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/object-set-prototype-of.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15920,9 +15920,9 @@ module.exports = Object.setPrototypeOf || ('__proto__' in {} ? function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/own-keys.js":
-/*!**************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/own-keys.js ***!
-  \**************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/own-keys.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15942,9 +15942,9 @@ module.exports = getBuiltIn('Reflect', 'ownKeys') || function ownKeys(it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/path.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/path.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/path.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15954,9 +15954,9 @@ module.exports = __webpack_require__(/*! ../internals/global */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/redefine.js":
-/*!**************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/redefine.js ***!
-  \**************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/redefine.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16004,9 +16004,9 @@ shared('inspectSource', function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/require-object-coercible.js":
-/*!******************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/require-object-coercible.js ***!
-  \******************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/require-object-coercible.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16021,9 +16021,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/set-global.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/set-global.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/set-global.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16042,9 +16042,9 @@ module.exports = function (key, value) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/set-to-string-tag.js":
-/*!***********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/set-to-string-tag.js ***!
-  \***********************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/set-to-string-tag.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16064,9 +16064,9 @@ module.exports = function (it, TAG, STATIC) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/shared-key.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/shared-key.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/shared-key.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16083,9 +16083,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/shared.js":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/shared.js ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/shared.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16108,9 +16108,9 @@ var store = global[SHARED] || setGlobal(SHARED, {});
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/to-absolute-index.js":
-/*!***********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-absolute-index.js ***!
-  \***********************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-absolute-index.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16131,9 +16131,9 @@ module.exports = function (index, length) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/to-indexed-object.js":
-/*!***********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-indexed-object.js ***!
-  \***********************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-indexed-object.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16149,9 +16149,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/to-integer.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-integer.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-integer.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16168,9 +16168,9 @@ module.exports = function (argument) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/to-length.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-length.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-length.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16188,9 +16188,9 @@ module.exports = function (argument) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/to-object.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-object.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-object.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16206,9 +16206,9 @@ module.exports = function (argument) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/to-primitive.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-primitive.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/to-primitive.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16231,9 +16231,9 @@ module.exports = function (input, PREFERRED_STRING) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/uid.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/uid.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/uid.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16248,9 +16248,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/internals/well-known-symbol.js":
-/*!***********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/well-known-symbol.js ***!
-  \***********************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/internals/well-known-symbol.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16271,9 +16271,9 @@ module.exports = function (name) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/modules/es.array.flat-map.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.flat-map.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.flat-map.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16304,9 +16304,9 @@ $({ target: 'Array', proto: true }, {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/modules/es.array.flat.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.flat.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.flat.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16336,9 +16336,9 @@ $({ target: 'Array', proto: true }, {
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/modules/es.array.iterator.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.iterator.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.iterator.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16401,9 +16401,9 @@ addToUnscopables('entries');
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/modules/es.array.unscopables.flat-map.js":
-/*!*********************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.unscopables.flat-map.js ***!
-  \*********************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.unscopables.flat-map.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16417,9 +16417,9 @@ addToUnscopables('flatMap');
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/modules/es.array.unscopables.flat.js":
-/*!*****************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.unscopables.flat.js ***!
-  \*****************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.array.unscopables.flat.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16433,9 +16433,9 @@ addToUnscopables('flat');
 /***/ }),
 
 /***/ "../../node_modules/apollo-env/node_modules/core-js/modules/es.object.from-entries.js":
-/*!**************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.object.from-entries.js ***!
-  \**************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-env/node_modules/core-js/modules/es.object.from-entries.js ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16459,9 +16459,9 @@ $({ target: 'Object', stat: true }, {
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/index.js":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/index.js ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16481,9 +16481,9 @@ __export(__webpack_require__(/*! ./schema */ "../../node_modules/apollo-graphql/
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/operationId.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/operationId.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/operationId.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16511,9 +16511,9 @@ exports.operationHash = operationHash;
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/schema/GraphQLSchemaValidationError.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/schema/GraphQLSchemaValidationError.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/schema/GraphQLSchemaValidationError.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16535,9 +16535,9 @@ exports.GraphQLSchemaValidationError = GraphQLSchemaValidationError;
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/schema/buildSchemaFromSDL.js":
-/*!********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/schema/buildSchemaFromSDL.js ***!
-  \********************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/schema/buildSchemaFromSDL.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16739,9 +16739,9 @@ exports.addResolversToSchema = addResolversToSchema;
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/schema/index.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/schema/index.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/schema/index.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16759,9 +16759,9 @@ __export(__webpack_require__(/*! ./transformSchema */ "../../node_modules/apollo
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/schema/transformSchema.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/schema/transformSchema.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/schema/transformSchema.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16834,9 +16834,9 @@ exports.transformSchema = transformSchema;
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/transforms.js":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/transforms.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/transforms.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16954,9 +16954,9 @@ exports.printWithReducedWhitespace = printWithReducedWhitespace;
 /***/ }),
 
 /***/ "../../node_modules/apollo-graphql/lib/utilities/graphql.js":
-/*!************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-graphql/lib/utilities/graphql.js ***!
-  \************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-graphql/lib/utilities/graphql.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16977,9 +16977,9 @@ exports.isDocumentNode = isDocumentNode;
 /***/ }),
 
 /***/ "../../node_modules/apollo-link/lib/bundle.esm.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-link/lib/bundle.esm.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-link/lib/bundle.esm.js ***!
+  \***********************************************************************************************/
 /*! exports provided: Observable, getOperationName, ApolloLink, concat, createOperation, empty, execute, from, fromError, fromPromise, makePromise, split, toPromise */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -17200,9 +17200,9 @@ function execute(link, operation) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-caching/dist/InMemoryLRUCache.js":
-/*!*******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-caching/dist/InMemoryLRUCache.js ***!
-  \*******************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-caching/dist/InMemoryLRUCache.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17268,9 +17268,9 @@ exports.InMemoryLRUCache = InMemoryLRUCache;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-caching/dist/PrefixingKeyValueCache.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-caching/dist/PrefixingKeyValueCache.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-caching/dist/PrefixingKeyValueCache.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17298,9 +17298,9 @@ exports.PrefixingKeyValueCache = PrefixingKeyValueCache;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-caching/dist/index.js":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-caching/dist/index.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-caching/dist/index.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17316,9 +17316,9 @@ exports.PrefixingKeyValueCache = PrefixingKeyValueCache_1.PrefixingKeyValueCache
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/ApolloServer.js":
-/*!************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/ApolloServer.js ***!
-  \************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/ApolloServer.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17835,9 +17835,9 @@ function printNodeFileUploadsMessage() {
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/graphqlOptions.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/graphqlOptions.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/graphqlOptions.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17868,9 +17868,9 @@ exports.resolveGraphqlOptions = resolveGraphqlOptions;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/index.js":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/index.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/index.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17920,9 +17920,9 @@ exports.GraphQLUpload = runtimeSupportsUploads_1.default
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/nodeHttpToRequest.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/nodeHttpToRequest.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/nodeHttpToRequest.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17952,9 +17952,9 @@ exports.convertNodeHttpToRequest = convertNodeHttpToRequest;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/playground.js":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/playground.js ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/playground.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17997,9 +17997,9 @@ exports.createPlaygroundOptions = createPlaygroundOptions;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/processFileUploads.js":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/processFileUploads.js ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/processFileUploads.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18023,9 +18023,9 @@ exports.default = processFileUploads;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/requestPipeline.js":
-/*!***************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/requestPipeline.js ***!
-  \***************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/requestPipeline.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18364,9 +18364,9 @@ exports.processGraphQLRequest = processGraphQLRequest;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/requestPipelineAPI.js":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/requestPipelineAPI.js ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/requestPipelineAPI.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18380,9 +18380,9 @@ exports.InvalidGraphQLRequestError = apollo_server_types_1.InvalidGraphQLRequest
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/runHttpQuery.js":
-/*!************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/runHttpQuery.js ***!
-  \************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/runHttpQuery.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18661,9 +18661,9 @@ function cloneObject(object) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/types.js":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/types.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/types.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18677,9 +18677,9 @@ exports.GraphQLExtension = graphql_extensions_1.GraphQLExtension;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/utils/createSHA.js":
-/*!***************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/utils/createSHA.js ***!
-  \***************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/utils/createSHA.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18702,9 +18702,9 @@ exports.default = default_1;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/utils/dispatcher.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/utils/dispatcher.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/utils/dispatcher.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18773,9 +18773,9 @@ exports.Dispatcher = Dispatcher;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/utils/isDirectiveDefined.js":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/utils/isDirectiveDefined.js ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/utils/isDirectiveDefined.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18799,9 +18799,9 @@ exports.isDirectiveDefined = (typeDefs, directiveName) => {
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/utils/isNodeLike.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/utils/isNodeLike.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/utils/isNodeLike.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18818,9 +18818,9 @@ exports.default = typeof process === 'object' &&
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/utils/runtimeSupportsUploads.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/utils/runtimeSupportsUploads.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/utils/runtimeSupportsUploads.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18849,9 +18849,9 @@ exports.default = runtimeSupportsUploads;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/dist/utils/schemaHash.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/dist/utils/schemaHash.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/dist/utils/schemaHash.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18893,9 +18893,9 @@ exports.generateSchemaHash = generateSchemaHash;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-core/node_modules/graphql-extensions/dist/index.js":
-/*!*************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-core/node_modules/graphql-extensions/dist/index.js ***!
-  \*************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-core/node_modules/graphql-extensions/dist/index.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19081,9 +19081,9 @@ function forEachField(schema, fn) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-env/dist/index.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-env/dist/index.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-env/dist/index.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19109,9 +19109,9 @@ __export(__webpack_require__(/*! ./polyfills/url */ "../../node_modules/apollo-s
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-env/dist/polyfills/Object.entries.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/Object.entries.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/Object.entries.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19127,9 +19127,9 @@ if (!global.Object.entries) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-env/dist/polyfills/Object.values.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/Object.values.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/Object.values.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19145,9 +19145,9 @@ if (!global.Object.values) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-env/dist/polyfills/fetch.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/fetch.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/fetch.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19164,9 +19164,9 @@ exports.Headers = node_fetch_1.Headers;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-env/dist/polyfills/url.js":
-/*!************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/url.js ***!
-  \************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-env/dist/polyfills/url.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19181,9 +19181,9 @@ exports.URLSearchParams = url_1.URLSearchParams;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-env/dist/utils/runtimeSupportsPromisify.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-env/dist/utils/runtimeSupportsPromisify.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-env/dist/utils/runtimeSupportsPromisify.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19212,9 +19212,9 @@ exports.default = runtimeSupportsPromisify;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-errors/dist/index.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-errors/dist/index.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-errors/dist/index.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19408,9 +19408,9 @@ exports.hasPersistedQueryError = hasPersistedQueryError;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-lambda/dist/ApolloServer.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-lambda/dist/ApolloServer.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-lambda/dist/ApolloServer.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19536,9 +19536,9 @@ exports.ApolloServer = ApolloServer;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-lambda/dist/index.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-lambda/dist/index.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-lambda/dist/index.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19568,9 +19568,9 @@ exports.ApolloServer = ApolloServer_1.ApolloServer;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-lambda/dist/lambdaApollo.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-lambda/dist/lambdaApollo.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-lambda/dist/lambdaApollo.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19629,9 +19629,9 @@ exports.graphqlLambda = graphqlLambda;
 /***/ }),
 
 /***/ "../../node_modules/apollo-server-types/dist/index.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-server-types/dist/index.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-server-types/dist/index.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19646,9 +19646,9 @@ exports.InvalidGraphQLRequestError = InvalidGraphQLRequestError;
 /***/ }),
 
 /***/ "../../node_modules/apollo-tracing/dist/index.js":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-tracing/dist/index.js ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-tracing/dist/index.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19725,9 +19725,9 @@ function durationHrTimeToNanos(hrtime) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/bundle.esm.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/apollo-utilities/lib/bundle.esm.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/apollo-utilities/lib/bundle.esm.js ***!
+  \****************************************************************************************************/
 /*! exports provided: isEqual, addTypenameToDocument, argumentsObjectFromField, assign, buildQueryFromSelectionSet, canUseWeakMap, checkDocument, cloneDeep, createFragmentMap, getDefaultValues, getDirectiveInfoFromField, getDirectiveNames, getDirectivesFromDocument, getEnv, getFragmentDefinition, getFragmentDefinitions, getFragmentQueryDocument, getInclusionDirectives, getMainDefinition, getMutationDefinition, getOperationDefinition, getOperationDefinitionOrDie, getOperationName, getQueryDefinition, getStoreKeyName, graphQLResultHasError, hasClientExports, hasDirectives, isDevelopment, isEnv, isField, isIdValue, isInlineFragment, isJsonValue, isNumberValue, isProduction, isScalarValue, isTest, maybeDeepFreeze, mergeDeep, mergeDeepArray, removeArgumentsFromDocument, removeClientSetsFromDocument, removeConnectionDirectiveFromDocument, removeDirectivesFromDocument, removeFragmentSpreadFromDocument, resultKeyNameFromField, shouldInclude, storeKeyNameFromField, stripSymbols, toIdValue, tryFunctionOrLogError, valueFromNode, valueToObjectRepresentation, variablesInOperation, warnOnceInDevelopment */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20715,9 +20715,9 @@ function stripSymbols(data) {
 /***/ }),
 
 /***/ "../../node_modules/async-limiter/index.js":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/async-limiter/index.js ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/async-limiter/index.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20794,9 +20794,9 @@ module.exports = Queue;
 /***/ }),
 
 /***/ "../../node_modules/async-retry/lib/index.js":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/async-retry/lib/index.js ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/async-retry/lib/index.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20859,9 +20859,9 @@ module.exports = retry;
 /***/ }),
 
 /***/ "../../node_modules/backo2/index.js":
-/*!************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/backo2/index.js ***!
-  \************************************************************/
+/*!*********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/backo2/index.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -20955,9 +20955,9 @@ Backoff.prototype.setJitter = function(jitter){
 /***/ }),
 
 /***/ "../../node_modules/busboy/deps/encoding/encoding-indexes.js":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/busboy/deps/encoding/encoding-indexes.js ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/busboy/deps/encoding/encoding-indexes.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -21039,9 +21039,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/busboy/deps/encoding/encoding.js":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/busboy/deps/encoding/encoding.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/busboy/deps/encoding/encoding.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23441,9 +23441,9 @@ exports.encodingExists = getEncoding;
 /***/ }),
 
 /***/ "../../node_modules/busboy/lib/main.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/busboy/lib/main.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/busboy/lib/main.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23540,9 +23540,9 @@ module.exports = Busboy;
 /***/ }),
 
 /***/ "../../node_modules/busboy/lib/types/multipart.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/busboy/lib/types/multipart.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/busboy/lib/types/multipart.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23876,9 +23876,9 @@ module.exports = Multipart;
 /***/ }),
 
 /***/ "../../node_modules/busboy/lib/types/urlencoded.js":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/busboy/lib/types/urlencoded.js ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/busboy/lib/types/urlencoded.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24101,9 +24101,9 @@ module.exports = UrlEncoded;
 /***/ }),
 
 /***/ "../../node_modules/busboy/lib/utils.js":
-/*!****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/busboy/lib/utils.js ***!
-  \****************************************************************/
+/*!*************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/busboy/lib/utils.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24284,9 +24284,9 @@ exports.basename = basename;
 /***/ }),
 
 /***/ "../../node_modules/define-properties/index.js":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/define-properties/index.js ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/define-properties/index.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24354,9 +24354,9 @@ module.exports = defineProperties;
 /***/ }),
 
 /***/ "../../node_modules/depd/index.js":
-/*!**********************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/depd/index.js ***!
-  \**********************************************************/
+/*!*******************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/depd/index.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24887,9 +24887,9 @@ function DeprecationError (namespace, message, stack) {
 /***/ }),
 
 /***/ "../../node_modules/depd/lib/compat/callsite-tostring.js":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/depd/lib/compat/callsite-tostring.js ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/depd/lib/compat/callsite-tostring.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25002,9 +25002,9 @@ function getConstructorName (obj) {
 /***/ }),
 
 /***/ "../../node_modules/depd/lib/compat/event-listener-count.js":
-/*!************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/depd/lib/compat/event-listener-count.js ***!
-  \************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/depd/lib/compat/event-listener-count.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25036,9 +25036,9 @@ function eventListenerCount (emitter, type) {
 /***/ }),
 
 /***/ "../../node_modules/depd/lib/compat/index.js":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/depd/lib/compat/index.js ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/depd/lib/compat/index.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25127,9 +25127,9 @@ function toString (obj) {
 /***/ }),
 
 /***/ "../../node_modules/deprecated-decorator/bld/index.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/deprecated-decorator/bld/index.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/deprecated-decorator/bld/index.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25308,9 +25308,9 @@ exports.default = deprecated;
 /***/ }),
 
 /***/ "../../node_modules/dicer/lib/Dicer.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/dicer/lib/Dicer.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/dicer/lib/Dicer.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25558,9 +25558,9 @@ module.exports = Dicer;
 /***/ }),
 
 /***/ "../../node_modules/dicer/lib/HeaderParser.js":
-/*!**********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/dicer/lib/HeaderParser.js ***!
-  \**********************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/dicer/lib/HeaderParser.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25679,9 +25679,9 @@ module.exports = HeaderParser;
 /***/ }),
 
 /***/ "../../node_modules/dicer/lib/PartStream.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/dicer/lib/PartStream.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/dicer/lib/PartStream.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25701,9 +25701,9 @@ module.exports = PartStream;
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/GetIntrinsic.js":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/GetIntrinsic.js ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/GetIntrinsic.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25890,9 +25890,9 @@ module.exports = function GetIntrinsic(name, allowMissing) {
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/es2015.js":
-/*!******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/es2015.js ***!
-  \******************************************************************/
+/*!***************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/es2015.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26692,9 +26692,9 @@ module.exports = ES6;
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/es2016.js":
-/*!******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/es2016.js ***!
-  \******************************************************************/
+/*!***************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/es2016.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26720,9 +26720,9 @@ module.exports = ES2016;
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/es5.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/es5.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/es5.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26967,9 +26967,9 @@ module.exports = ES5;
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/es7.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/es7.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/es7.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26982,9 +26982,9 @@ module.exports = __webpack_require__(/*! ./es2016 */ "../../node_modules/es-abst
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/helpers/assertRecord.js":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/helpers/assertRecord.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/helpers/assertRecord.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27043,9 +27043,9 @@ module.exports = function assertRecord(ES, recordType, argumentName, value) {
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/helpers/assign.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/helpers/assign.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/helpers/assign.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27071,9 +27071,9 @@ module.exports = function assign(target, source) {
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/helpers/isFinite.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/helpers/isFinite.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/helpers/isFinite.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27085,9 +27085,9 @@ module.exports = Number.isFinite || function (x) { return typeof x === 'number' 
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/helpers/isNaN.js":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/helpers/isNaN.js ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/helpers/isNaN.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27099,9 +27099,9 @@ module.exports = Number.isNaN || function isNaN(a) {
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/helpers/isPrimitive.js":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/helpers/isPrimitive.js ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/helpers/isPrimitive.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27113,9 +27113,9 @@ module.exports = function isPrimitive(value) {
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/helpers/mod.js":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/helpers/mod.js ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/helpers/mod.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27128,9 +27128,9 @@ module.exports = function mod(number, modulo) {
 /***/ }),
 
 /***/ "../../node_modules/es-abstract/helpers/sign.js":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-abstract/helpers/sign.js ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-abstract/helpers/sign.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27142,9 +27142,9 @@ module.exports = function sign(number) {
 /***/ }),
 
 /***/ "../../node_modules/es-to-primitive/es2015.js":
-/*!**********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-to-primitive/es2015.js ***!
-  \**********************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-to-primitive/es2015.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27229,9 +27229,9 @@ module.exports = function ToPrimitive(input) {
 /***/ }),
 
 /***/ "../../node_modules/es-to-primitive/es5.js":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-to-primitive/es5.js ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-to-primitive/es5.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27286,9 +27286,9 @@ module.exports = function ToPrimitive(input) {
 /***/ }),
 
 /***/ "../../node_modules/es-to-primitive/es6.js":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-to-primitive/es6.js ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-to-primitive/es6.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27301,9 +27301,9 @@ module.exports = __webpack_require__(/*! ./es2015 */ "../../node_modules/es-to-p
 /***/ }),
 
 /***/ "../../node_modules/es-to-primitive/helpers/isPrimitive.js":
-/*!***********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/es-to-primitive/helpers/isPrimitive.js ***!
-  \***********************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/es-to-primitive/helpers/isPrimitive.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27315,9 +27315,9 @@ module.exports = function isPrimitive(value) {
 /***/ }),
 
 /***/ "../../node_modules/eventemitter3/index.js":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/eventemitter3/index.js ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/eventemitter3/index.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27663,9 +27663,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/fast-json-stable-stringify/index.js":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/fast-json-stable-stringify/index.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/fast-json-stable-stringify/index.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27734,9 +27734,9 @@ module.exports = function (data, opts) {
 /***/ }),
 
 /***/ "../../node_modules/fs-capacitor/lib/index.mjs":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/fs-capacitor/lib/index.mjs ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/fs-capacitor/lib/index.mjs ***!
+  \********************************************************************************************/
 /*! exports provided: ReadAfterDestroyedError, ReadStream, WriteStream, default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -27960,9 +27960,9 @@ class WriteStream extends fs__WEBPACK_IMPORTED_MODULE_1__.WriteStream {
 /***/ }),
 
 /***/ "../../node_modules/function-bind/implementation.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/function-bind/implementation.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/function-bind/implementation.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28024,9 +28024,9 @@ module.exports = function bind(that) {
 /***/ }),
 
 /***/ "../../node_modules/function-bind/index.js":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/function-bind/index.js ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/function-bind/index.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28041,9 +28041,9 @@ module.exports = Function.prototype.bind || implementation;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tag/src/index.js":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tag/src/index.js ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tag/src/index.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28232,9 +28232,9 @@ module.exports = gql;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/SchemaError.js":
-/*!***************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/SchemaError.js ***!
-  \***************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/SchemaError.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28270,9 +28270,9 @@ exports.default = SchemaError;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/addResolveFunctionsToSchema.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/addResolveFunctionsToSchema.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/addResolveFunctionsToSchema.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28399,9 +28399,9 @@ exports.default = addResolveFunctionsToSchema;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/addSchemaLevelResolveFunction.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/addSchemaLevelResolveFunction.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/addSchemaLevelResolveFunction.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28470,9 +28470,9 @@ exports.default = addSchemaLevelResolveFunction;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/assertResolveFunctionsPresent.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/assertResolveFunctionsPresent.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/assertResolveFunctionsPresent.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28521,9 +28521,9 @@ exports.default = assertResolveFunctionsPresent;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/attachConnectorsToContext.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/attachConnectorsToContext.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/attachConnectorsToContext.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28586,9 +28586,9 @@ exports.default = attachConnectorsToContext;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/attachDirectiveResolvers.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/attachDirectiveResolvers.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/attachDirectiveResolvers.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28684,9 +28684,9 @@ exports.default = attachDirectiveResolvers;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/buildSchemaFromTypeDefinitions.js":
-/*!**********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/buildSchemaFromTypeDefinitions.js ***!
-  \**********************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/buildSchemaFromTypeDefinitions.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28729,9 +28729,9 @@ exports.default = buildSchemaFromTypeDefinitions;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/chainResolvers.js":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/chainResolvers.js ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/chainResolvers.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28753,9 +28753,9 @@ exports.chainResolvers = chainResolvers;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/checkForResolveTypeResolver.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/checkForResolveTypeResolver.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/checkForResolveTypeResolver.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28790,9 +28790,9 @@ exports.default = checkForResolveTypeResolver;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/concatenateTypeDefs.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/concatenateTypeDefs.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/concatenateTypeDefs.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28834,9 +28834,9 @@ exports.default = concatenateTypeDefs;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/decorateWithLogger.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/decorateWithLogger.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/decorateWithLogger.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28892,9 +28892,9 @@ exports.default = decorateWithLogger;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/extendResolversFromInterfaces.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/extendResolversFromInterfaces.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/extendResolversFromInterfaces.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28937,9 +28937,9 @@ exports.default = extendResolversFromInterfaces;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/extractExtensionDefinitions.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/extractExtensionDefinitions.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/extractExtensionDefinitions.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28967,9 +28967,9 @@ exports.default = extractExtensionDefinitions;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/forEachField.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/forEachField.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/forEachField.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28996,9 +28996,9 @@ exports.default = forEachField;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/generate/index.js":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/generate/index.js ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/generate/index.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29036,9 +29036,9 @@ exports.SchemaError = SchemaError_1.default;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/implementsAbstractType.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/implementsAbstractType.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/implementsAbstractType.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29061,9 +29061,9 @@ exports.default = implementsAbstractType;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/index.js":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/index.js ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29082,9 +29082,9 @@ exports.SchemaDirectiveVisitor = schemaVisitor_1.SchemaDirectiveVisitor;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/isEmptyObject.js":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/isEmptyObject.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/isEmptyObject.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29106,9 +29106,9 @@ exports.default = isEmptyObject;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/isSpecifiedScalarType.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/isSpecifiedScalarType.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/isSpecifiedScalarType.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29138,9 +29138,9 @@ exports.default = isSpecifiedScalarType;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/makeExecutableSchema.js":
-/*!***************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/makeExecutableSchema.js ***!
-  \***************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/makeExecutableSchema.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29240,9 +29240,9 @@ __export(__webpack_require__(/*! ./generate */ "../../node_modules/graphql-tools
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/mergeDeep.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/mergeDeep.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/mergeDeep.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29276,9 +29276,9 @@ function isObject(item) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/mock.js":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/mock.js ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/mock.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29592,9 +29592,9 @@ exports.MockList = MockList;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/schemaVisitor.js":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/schemaVisitor.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/schemaVisitor.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30185,9 +30185,9 @@ function valueFromASTUntyped(valueNode) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/defaultMergedResolver.js":
-/*!**************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/defaultMergedResolver.js ***!
-  \**************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/defaultMergedResolver.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30227,9 +30227,9 @@ exports.default = defaultMergedResolver;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/delegateToSchema.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/delegateToSchema.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/delegateToSchema.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30400,9 +30400,9 @@ function createDocument(targetField, targetOperation, originalSelections, fragme
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/errors.js":
-/*!***********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/errors.js ***!
-  \***********************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/errors.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30524,9 +30524,9 @@ function hasResult(error) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/getResponseKeyFromInfo.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/getResponseKeyFromInfo.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/getResponseKeyFromInfo.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -30545,9 +30545,9 @@ exports.getResponseKeyFromInfo = getResponseKeyFromInfo;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/index.js":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/index.js ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/index.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30568,9 +30568,9 @@ exports.defaultMergedResolver = defaultMergedResolver_1.default;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/introspectSchema.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/introspectSchema.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/introspectSchema.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30648,9 +30648,9 @@ exports.default = introspectSchema;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/linkToFetcher.js":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/linkToFetcher.js ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/linkToFetcher.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30669,9 +30669,9 @@ exports.default = linkToFetcher;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/makeRemoteExecutableSchema.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/makeRemoteExecutableSchema.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/makeRemoteExecutableSchema.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30857,9 +30857,9 @@ function createSubscriptionResolver(name, link) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/mapAsyncIterator.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/mapAsyncIterator.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/mapAsyncIterator.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30926,9 +30926,9 @@ function iteratorResult(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/mergeSchemas.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/mergeSchemas.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/mergeSchemas.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31287,9 +31287,9 @@ function defaultVisitType(name, candidates, candidateSelector) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/observableToAsyncIterable.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/observableToAsyncIterable.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/observableToAsyncIterable.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31420,9 +31420,9 @@ exports.observableToAsyncIterable = observableToAsyncIterable;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/resolveFromParentTypename.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/resolveFromParentTypename.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/resolveFromParentTypename.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31445,9 +31445,9 @@ exports.default = resolveFromParentTypename;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/resolvers.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/resolvers.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/resolvers.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31515,9 +31515,9 @@ function createProxyingResolver(schema, operation, fieldName, transforms) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/schemaRecreation.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/schemaRecreation.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/schemaRecreation.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31780,9 +31780,9 @@ exports.inputFieldToFieldConfig = inputFieldToFieldConfig;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/stitching/typeFromAST.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/stitching/typeFromAST.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/stitching/typeFromAST.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31958,9 +31958,9 @@ function makeDirective(node) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/AddArgumentsAsVariables.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/AddArgumentsAsVariables.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/AddArgumentsAsVariables.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32117,9 +32117,9 @@ function typeToAst(type) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/AddTypenameToAbstract.js":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/AddTypenameToAbstract.js ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/AddTypenameToAbstract.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32180,9 +32180,9 @@ function addTypenameToAbstract(targetSchema, document) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/CheckResultAndHandleErrors.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/CheckResultAndHandleErrors.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/CheckResultAndHandleErrors.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32204,9 +32204,9 @@ exports.default = CheckResultAndHandleErrors;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/ConvertEnumResponse.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/ConvertEnumResponse.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/ConvertEnumResponse.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -32230,9 +32230,9 @@ exports.default = ConvertEnumResponse;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/ConvertEnumValues.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/ConvertEnumValues.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/ConvertEnumValues.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32291,9 +32291,9 @@ exports.default = ConvertEnumValues;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/ExpandAbstractTypes.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/ExpandAbstractTypes.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/ExpandAbstractTypes.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32467,9 +32467,9 @@ function expandAbstractTypes(targetSchema, mapping, reverseMapping, document) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/ExtractField.js":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/ExtractField.js ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/ExtractField.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32536,9 +32536,9 @@ exports.default = ExtractField;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/FilterRootFields.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/FilterRootFields.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/FilterRootFields.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32566,9 +32566,9 @@ exports.default = FilterRootFields;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/FilterToSchema.js":
-/*!********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/FilterToSchema.js ***!
-  \********************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/FilterToSchema.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32816,9 +32816,9 @@ function union() {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/FilterTypes.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/FilterTypes.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/FilterTypes.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32851,9 +32851,9 @@ exports.default = FilterTypes;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/RenameRootFields.js":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/RenameRootFields.js ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/RenameRootFields.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32881,9 +32881,9 @@ exports.default = RenameRootFields;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/RenameTypes.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/RenameTypes.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/RenameTypes.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32994,9 +32994,9 @@ exports.default = RenameTypes;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/ReplaceFieldWithFragment.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/ReplaceFieldWithFragment.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/ReplaceFieldWithFragment.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33161,9 +33161,9 @@ function deduplicateSelection(nodes) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/TransformRootFields.js":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/TransformRootFields.js ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/TransformRootFields.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33238,9 +33238,9 @@ function transformFields(type, transformer) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/WrapQuery.js":
-/*!***************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/WrapQuery.js ***!
-  \***************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/WrapQuery.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33319,9 +33319,9 @@ exports.default = WrapQuery;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/index.js":
-/*!***********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/index.js ***!
-  \***********************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/index.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33359,9 +33359,9 @@ exports.WrapQuery = WrapQuery_1.default;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/transformSchema.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/transformSchema.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/transformSchema.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33391,9 +33391,9 @@ exports.default = transformSchema;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/transforms.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/transforms.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/transforms.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -33442,9 +33442,9 @@ exports.composeTransforms = composeTransforms;
 /***/ }),
 
 /***/ "../../node_modules/graphql-tools/dist/transforms/visitSchema.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-tools/dist/transforms/visitSchema.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-tools/dist/transforms/visitSchema.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33561,9 +33561,9 @@ function getVisitor(visitor, specifiers) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-upload/lib/GraphQLUpload.mjs":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-upload/lib/GraphQLUpload.mjs ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-upload/lib/GraphQLUpload.mjs ***!
+  \******************************************************************************************************/
 /*! exports provided: GraphQLUpload */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -33590,9 +33590,9 @@ const GraphQLUpload = new graphql__WEBPACK_IMPORTED_MODULE_0__["GraphQLScalarTyp
 /***/ }),
 
 /***/ "../../node_modules/graphql-upload/lib/graphqlUploadExpress.mjs":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-upload/lib/graphqlUploadExpress.mjs ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-upload/lib/graphqlUploadExpress.mjs ***!
+  \*************************************************************************************************************/
 /*! exports provided: graphqlUploadExpress */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -33628,9 +33628,9 @@ const graphqlUploadExpress = options => (request, response, next) => {
 /***/ }),
 
 /***/ "../../node_modules/graphql-upload/lib/graphqlUploadKoa.mjs":
-/*!************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-upload/lib/graphqlUploadKoa.mjs ***!
-  \************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-upload/lib/graphqlUploadKoa.mjs ***!
+  \*********************************************************************************************************/
 /*! exports provided: graphqlUploadKoa */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -33655,9 +33655,9 @@ const graphqlUploadKoa = options => async (ctx, next) => {
 /***/ }),
 
 /***/ "../../node_modules/graphql-upload/lib/index.mjs":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-upload/lib/index.mjs ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-upload/lib/index.mjs ***!
+  \**********************************************************************************************/
 /*! exports provided: GraphQLUpload, processRequest, graphqlUploadKoa, graphqlUploadExpress */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -33684,9 +33684,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql-upload/lib/processRequest.mjs":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-upload/lib/processRequest.mjs ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-upload/lib/processRequest.mjs ***!
+  \*******************************************************************************************************/
 /*! exports provided: processRequest */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -33983,9 +33983,9 @@ const processRequest = (
 /***/ }),
 
 /***/ "../../node_modules/graphql-upload/node_modules/http-errors/index.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql-upload/node_modules/http-errors/index.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql-upload/node_modules/http-errors/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34261,9 +34261,9 @@ function populateConstructorExports (exports, codes, HttpError) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/GraphQLError.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/error/GraphQLError.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/error/GraphQLError.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: GraphQLError, printError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -34486,9 +34486,9 @@ function printError(error) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/formatError.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/error/formatError.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/error/formatError.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: formatError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -34524,9 +34524,9 @@ function formatError(error) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/index.mjs":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/error/index.mjs ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/error/index.mjs ***!
+  \*****************************************************************************************/
 /*! exports provided: GraphQLError, printError, syntaxError, locatedError, formatError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -34555,9 +34555,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/locatedError.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/error/locatedError.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/error/locatedError.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: locatedError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -34586,9 +34586,9 @@ function locatedError(originalError, nodes, path) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/syntaxError.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/error/syntaxError.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/error/syntaxError.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: syntaxError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -34610,9 +34610,9 @@ function syntaxError(source, position, description) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/execution/execute.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/execution/execute.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/execution/execute.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: execute, responsePathAsArray, addPath, assertValidExecutionArguments, buildExecutionContext, collectFields, buildResolveInfo, resolveFieldValueOrError, defaultTypeResolver, defaultFieldResolver, getFieldDef */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -35466,9 +35466,9 @@ function getFieldDef(schema, parentType, fieldName) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/execution/index.mjs":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/execution/index.mjs ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/execution/index.mjs ***!
+  \*********************************************************************************************/
 /*! exports provided: execute, defaultFieldResolver, defaultTypeResolver, responsePathAsArray, getDirectiveValues */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -35493,9 +35493,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/execution/values.mjs":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/execution/values.mjs ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/execution/values.mjs ***!
+  \**********************************************************************************************/
 /*! exports provided: getVariableValues, getArgumentValues, getDirectiveValues */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -35728,9 +35728,9 @@ function hasOwnProperty(obj, prop) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/graphql.mjs":
-/*!****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/graphql.mjs ***!
-  \****************************************************************/
+/*!*************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/graphql.mjs ***!
+  \*************************************************************************************/
 /*! exports provided: graphql, graphqlSync */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -35850,9 +35850,9 @@ function graphqlImpl(args) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/index.mjs":
-/*!**************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/index.mjs ***!
-  \**************************************************************/
+/*!***********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/index.mjs ***!
+  \***********************************************************************************/
 /*! exports provided: version, versionInfo, graphql, graphqlSync, GraphQLSchema, GraphQLDirective, GraphQLScalarType, GraphQLObjectType, GraphQLInterfaceType, GraphQLUnionType, GraphQLEnumType, GraphQLInputObjectType, GraphQLList, GraphQLNonNull, specifiedScalarTypes, GraphQLInt, GraphQLFloat, GraphQLString, GraphQLBoolean, GraphQLID, specifiedDirectives, GraphQLIncludeDirective, GraphQLSkipDirective, GraphQLDeprecatedDirective, TypeKind, DEFAULT_DEPRECATION_REASON, introspectionTypes, __Schema, __Directive, __DirectiveLocation, __Type, __Field, __InputValue, __EnumValue, __TypeKind, SchemaMetaFieldDef, TypeMetaFieldDef, TypeNameMetaFieldDef, isSchema, isDirective, isType, isScalarType, isObjectType, isInterfaceType, isUnionType, isEnumType, isInputObjectType, isListType, isNonNullType, isInputType, isOutputType, isLeafType, isCompositeType, isAbstractType, isWrappingType, isNullableType, isNamedType, isRequiredArgument, isRequiredInputField, isSpecifiedScalarType, isIntrospectionType, isSpecifiedDirective, assertSchema, assertDirective, assertType, assertScalarType, assertObjectType, assertInterfaceType, assertUnionType, assertEnumType, assertInputObjectType, assertListType, assertNonNullType, assertInputType, assertOutputType, assertLeafType, assertCompositeType, assertAbstractType, assertWrappingType, assertNullableType, assertNamedType, getNullableType, getNamedType, validateSchema, assertValidSchema, Source, getLocation, printLocation, printSourceLocation, createLexer, TokenKind, parse, parseValue, parseType, print, visit, visitInParallel, visitWithTypeInfo, getVisitFn, BREAK, Kind, DirectiveLocation, isDefinitionNode, isExecutableDefinitionNode, isSelectionNode, isValueNode, isTypeNode, isTypeSystemDefinitionNode, isTypeDefinitionNode, isTypeSystemExtensionNode, isTypeExtensionNode, execute, defaultFieldResolver, defaultTypeResolver, responsePathAsArray, getDirectiveValues, subscribe, createSourceEventStream, validate, ValidationContext, specifiedRules, FieldsOnCorrectTypeRule, FragmentsOnCompositeTypesRule, KnownArgumentNamesRule, KnownDirectivesRule, KnownFragmentNamesRule, KnownTypeNamesRule, LoneAnonymousOperationRule, NoFragmentCyclesRule, NoUndefinedVariablesRule, NoUnusedFragmentsRule, NoUnusedVariablesRule, OverlappingFieldsCanBeMergedRule, PossibleFragmentSpreadsRule, ProvidedRequiredArgumentsRule, ScalarLeafsRule, SingleFieldSubscriptionsRule, UniqueArgumentNamesRule, UniqueDirectivesPerLocationRule, UniqueFragmentNamesRule, UniqueInputFieldNamesRule, UniqueOperationNamesRule, UniqueVariableNamesRule, ValuesOfCorrectTypeRule, VariablesAreInputTypesRule, VariablesInAllowedPositionRule, GraphQLError, syntaxError, locatedError, printError, formatError, getIntrospectionQuery, introspectionQuery, getOperationAST, getOperationRootType, introspectionFromSchema, buildClientSchema, buildASTSchema, buildSchema, getDescription, extendSchema, lexicographicSortSchema, printSchema, printType, printIntrospectionSchema, typeFromAST, valueFromAST, valueFromASTUntyped, astFromValue, TypeInfo, coerceValue, isValidJSValue, isValidLiteralValue, concatAST, separateOperations, stripIgnoredCharacters, isEqualType, isTypeSubTypeOf, doTypesOverlap, assertValidName, isValidNameError, BreakingChangeType, DangerousChangeType, findBreakingChanges, findDangerousChanges, findDeprecatedUsages */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36284,9 +36284,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/defineToJSON.mjs":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/defineToJSON.mjs ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/defineToJSON.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36314,9 +36314,9 @@ function defineToJSON(classObject) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/defineToStringTag.mjs":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/defineToStringTag.mjs ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/defineToStringTag.mjs ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36350,9 +36350,9 @@ function defineToStringTag(classObject) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/didYouMean.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/didYouMean.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/didYouMean.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36396,9 +36396,9 @@ function didYouMean(firstArg, secondArg) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/identityFunc.mjs":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/identityFunc.mjs ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/identityFunc.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36416,9 +36416,9 @@ function identityFunc(x) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/inspect.mjs":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/inspect.mjs ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/inspect.mjs ***!
+  \*********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36555,9 +36555,9 @@ function getObjectTag(object) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/instanceOf.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/instanceOf.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/instanceOf.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36592,9 +36592,9 @@ function instanceOf(value, constructor) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/invariant.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/invariant.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/invariant.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36614,9 +36614,9 @@ function invariant(condition, message) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/isInvalid.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/isInvalid.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/isInvalid.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36634,9 +36634,9 @@ function isInvalid(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/isNullish.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/isNullish.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/isNullish.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36654,9 +36654,9 @@ function isNullish(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/isObjectLike.mjs":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/isObjectLike.mjs ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/isObjectLike.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36677,9 +36677,9 @@ function isObjectLike(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/isPromise.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/isPromise.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/isPromise.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36699,9 +36699,9 @@ function isPromise(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/keyMap.mjs":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/keyMap.mjs ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/keyMap.mjs ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36742,9 +36742,9 @@ function keyMap(list, keyFn) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/keyValMap.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/keyValMap.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/keyValMap.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36779,9 +36779,9 @@ function keyValMap(list, keyFn, valFn) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/mapValue.mjs":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/mapValue.mjs ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/mapValue.mjs ***!
+  \**********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36830,9 +36830,9 @@ function mapValue(map, fn) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/memoize3.mjs":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/memoize3.mjs ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/memoize3.mjs ***!
+  \**********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36885,9 +36885,9 @@ function memoize3(fn) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36900,9 +36900,9 @@ var nodejsCustomInspectSymbol = typeof Symbol === 'function' && typeof Symbol.fo
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/promiseForObject.mjs":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/promiseForObject.mjs ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/promiseForObject.mjs ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36933,9 +36933,9 @@ function promiseForObject(object) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/promiseReduce.mjs":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/promiseReduce.mjs ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/promiseReduce.mjs ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -36964,9 +36964,9 @@ function promiseReduce(values, callback, initialValue) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/suggestionList.mjs":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/jsutils/suggestionList.mjs ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/jsutils/suggestionList.mjs ***!
+  \****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -37075,9 +37075,9 @@ function lexicalDistance(aStr, bStr) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/blockString.mjs":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/blockString.mjs ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/blockString.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: dedentBlockStringValue, getBlockStringIndentation, printBlockString */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -37186,9 +37186,9 @@ function printBlockString(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/directiveLocation.mjs":
-/*!***********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/directiveLocation.mjs ***!
-  \***********************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/directiveLocation.mjs ***!
+  \********************************************************************************************************/
 /*! exports provided: DirectiveLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -37229,9 +37229,9 @@ var DirectiveLocation = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/index.mjs":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/index.mjs ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/index.mjs ***!
+  \********************************************************************************************/
 /*! exports provided: Source, getLocation, printLocation, printSourceLocation, Kind, TokenKind, createLexer, parse, parseValue, parseType, print, visit, visitInParallel, visitWithTypeInfo, getVisitFn, BREAK, isDefinitionNode, isExecutableDefinitionNode, isSelectionNode, isValueNode, isTypeNode, isTypeSystemDefinitionNode, isTypeDefinitionNode, isTypeSystemExtensionNode, isTypeExtensionNode, DirectiveLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -37316,9 +37316,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/kinds.mjs":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/kinds.mjs ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/kinds.mjs ***!
+  \********************************************************************************************/
 /*! exports provided: Kind */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -37392,9 +37392,9 @@ var Kind = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/lexer.mjs":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/lexer.mjs ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/lexer.mjs ***!
+  \********************************************************************************************/
 /*! exports provided: createLexer, isPunctuatorToken, getTokenDesc */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -38027,9 +38027,9 @@ function readName(source, start, line, col, prev) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/location.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/location.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/location.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: getLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -38065,9 +38065,9 @@ function getLocation(source, position) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/parser.mjs":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/parser.mjs ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/parser.mjs ***!
+  \*********************************************************************************************/
 /*! exports provided: parse, parseValue, parseType, parseConstValue, parseTypeReference, parseNamedType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -39591,9 +39591,9 @@ function many(lexer, openKind, parseFn, closeKind) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/predicates.mjs":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/predicates.mjs ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/predicates.mjs ***!
+  \*************************************************************************************************/
 /*! exports provided: isDefinitionNode, isExecutableDefinitionNode, isSelectionNode, isValueNode, isTypeNode, isTypeSystemDefinitionNode, isTypeDefinitionNode, isTypeSystemExtensionNode, isTypeExtensionNode */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -39642,9 +39642,9 @@ function isTypeExtensionNode(node) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/printLocation.mjs":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/printLocation.mjs ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/printLocation.mjs ***!
+  \****************************************************************************************************/
 /*! exports provided: printLocation, printSourceLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -39724,9 +39724,9 @@ function lpad(len, str) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/printer.mjs":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/printer.mjs ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/printer.mjs ***!
+  \**********************************************************************************************/
 /*! exports provided: print */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40040,9 +40040,9 @@ function hasMultilineItems(maybeArray) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/source.mjs":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/source.mjs ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/source.mjs ***!
+  \*********************************************************************************************/
 /*! exports provided: Source */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40079,9 +40079,9 @@ Object(_jsutils_defineToStringTag__WEBPACK_IMPORTED_MODULE_1__["default"])(Sourc
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/tokenKind.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/tokenKind.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/tokenKind.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: TokenKind */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40124,9 +40124,9 @@ var TokenKind = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/visitor.mjs":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/language/visitor.mjs ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/language/visitor.mjs ***!
+  \**********************************************************************************************/
 /*! exports provided: QueryDocumentKeys, BREAK, visit, visitInParallel, visitWithTypeInfo, getVisitFn */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40566,9 +40566,9 @@ function getVisitFn(visitor, kind, isLeaving) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/polyfills/find.mjs":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/polyfills/find.mjs ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/polyfills/find.mjs ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40593,9 +40593,9 @@ var find = Array.prototype.find ? function (list, predicate) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/polyfills/flatMap.mjs":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/polyfills/flatMap.mjs ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/polyfills/flatMap.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40627,9 +40627,9 @@ var flatMap = Array.prototype.flatMap ? function (list, fn) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/polyfills/isFinite.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/polyfills/isFinite.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/polyfills/isFinite.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40647,9 +40647,9 @@ var isFinite = Number.isFinite || function (value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/polyfills/isInteger.mjs":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/polyfills/isInteger.mjs ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/polyfills/isInteger.mjs ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40667,9 +40667,9 @@ var isInteger = Number.isInteger || function (value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/polyfills/objectEntries.mjs":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/polyfills/objectEntries.mjs ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/polyfills/objectEntries.mjs ***!
+  \*****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40689,9 +40689,9 @@ var objectEntries = Object.entries || function (obj) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/polyfills/objectValues.mjs":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/polyfills/objectValues.mjs ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/polyfills/objectValues.mjs ***!
+  \****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40711,9 +40711,9 @@ var objectValues = Object.values || function (obj) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/subscription/index.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/subscription/index.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/subscription/index.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: subscribe, createSourceEventStream */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40730,9 +40730,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/subscription/mapAsyncIterator.mjs":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/subscription/mapAsyncIterator.mjs ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/subscription/mapAsyncIterator.mjs ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40823,9 +40823,9 @@ function iteratorResult(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/subscription/subscribe.mjs":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/subscription/subscribe.mjs ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/subscription/subscribe.mjs ***!
+  \****************************************************************************************************/
 /*! exports provided: subscribe, createSourceEventStream */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -40987,9 +40987,9 @@ function createSourceEventStream(schema, document, rootValue, contextValue, vari
 /***/ }),
 
 /***/ "../../node_modules/graphql/type/definition.mjs":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/type/definition.mjs ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/type/definition.mjs ***!
+  \*********************************************************************************************/
 /*! exports provided: isType, assertType, isScalarType, assertScalarType, isObjectType, assertObjectType, isInterfaceType, assertInterfaceType, isUnionType, assertUnionType, isEnumType, assertEnumType, isInputObjectType, assertInputObjectType, isListType, assertListType, isNonNullType, assertNonNullType, isInputType, assertInputType, isOutputType, assertOutputType, isLeafType, assertLeafType, isCompositeType, assertCompositeType, isAbstractType, assertAbstractType, GraphQLList, GraphQLNonNull, isWrappingType, assertWrappingType, isNullableType, assertNullableType, getNullableType, isNamedType, assertNamedType, getNamedType, GraphQLScalarType, GraphQLObjectType, argsToArgsConfig, isRequiredArgument, GraphQLInterfaceType, GraphQLUnionType, GraphQLEnumType, GraphQLInputObjectType, isRequiredInputField */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -41935,9 +41935,9 @@ function isRequiredInputField(field) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/type/directives.mjs":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/type/directives.mjs ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/type/directives.mjs ***!
+  \*********************************************************************************************/
 /*! exports provided: isDirective, assertDirective, GraphQLDirective, GraphQLIncludeDirective, GraphQLSkipDirective, DEFAULT_DEPRECATION_REASON, GraphQLDeprecatedDirective, specifiedDirectives, isSpecifiedDirective */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -42104,9 +42104,9 @@ function isSpecifiedDirective(directive) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/type/index.mjs":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/type/index.mjs ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/type/index.mjs ***!
+  \****************************************************************************************/
 /*! exports provided: isSchema, assertSchema, GraphQLSchema, isType, isScalarType, isObjectType, isInterfaceType, isUnionType, isEnumType, isInputObjectType, isListType, isNonNullType, isInputType, isOutputType, isLeafType, isCompositeType, isAbstractType, isWrappingType, isNullableType, isNamedType, isRequiredArgument, isRequiredInputField, assertType, assertScalarType, assertObjectType, assertInterfaceType, assertUnionType, assertEnumType, assertInputObjectType, assertListType, assertNonNullType, assertInputType, assertOutputType, assertLeafType, assertCompositeType, assertAbstractType, assertWrappingType, assertNullableType, assertNamedType, getNullableType, getNamedType, GraphQLScalarType, GraphQLObjectType, GraphQLInterfaceType, GraphQLUnionType, GraphQLEnumType, GraphQLInputObjectType, GraphQLList, GraphQLNonNull, isDirective, assertDirective, GraphQLDirective, isSpecifiedDirective, specifiedDirectives, GraphQLIncludeDirective, GraphQLSkipDirective, GraphQLDeprecatedDirective, DEFAULT_DEPRECATION_REASON, isSpecifiedScalarType, specifiedScalarTypes, GraphQLInt, GraphQLFloat, GraphQLString, GraphQLBoolean, GraphQLID, isIntrospectionType, introspectionTypes, __Schema, __Directive, __DirectiveLocation, __Type, __Field, __InputValue, __EnumValue, __TypeKind, TypeKind, SchemaMetaFieldDef, TypeMetaFieldDef, TypeNameMetaFieldDef, validateSchema, assertValidSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -42293,9 +42293,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/type/introspection.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/type/introspection.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/type/introspection.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: __Schema, __Directive, __DirectiveLocation, __Type, __Field, __InputValue, __EnumValue, TypeKind, __TypeKind, SchemaMetaFieldDef, TypeMetaFieldDef, TypeNameMetaFieldDef, introspectionTypes, isIntrospectionType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -42824,9 +42824,9 @@ function isIntrospectionType(type) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/type/scalars.mjs":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/type/scalars.mjs ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/type/scalars.mjs ***!
+  \******************************************************************************************/
 /*! exports provided: GraphQLInt, GraphQLFloat, GraphQLString, GraphQLBoolean, GraphQLID, specifiedScalarTypes, isSpecifiedScalarType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -43082,9 +43082,9 @@ function isSpecifiedScalarType(type) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/type/schema.mjs":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/type/schema.mjs ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/type/schema.mjs ***!
+  \*****************************************************************************************/
 /*! exports provided: isSchema, assertSchema, GraphQLSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -43469,9 +43469,9 @@ function typeMapDirectiveReducer(map, directive) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/type/validate.mjs":
-/*!**********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/type/validate.mjs ***!
-  \**********************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/type/validate.mjs ***!
+  \*******************************************************************************************/
 /*! exports provided: validateSchema, assertValidSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -44256,9 +44256,9 @@ function getUnionMemberTypeNodes(union, typeName) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/TypeInfo.mjs":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/TypeInfo.mjs ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/TypeInfo.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: TypeInfo */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -44602,9 +44602,9 @@ function getFieldDef(schema, parentType, fieldNode) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/assertValidName.mjs":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/assertValidName.mjs ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/assertValidName.mjs ***!
+  \*******************************************************************************************************/
 /*! exports provided: assertValidName, isValidNameError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -44650,9 +44650,9 @@ function isValidNameError(name, node) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/astFromValue.mjs":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/astFromValue.mjs ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/astFromValue.mjs ***!
+  \****************************************************************************************************/
 /*! exports provided: astFromValue */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -44862,9 +44862,9 @@ var integerStringRegExp = /^-?(?:0|[1-9][0-9]*)$/;
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/buildASTSchema.mjs":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/buildASTSchema.mjs ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/buildASTSchema.mjs ***!
+  \******************************************************************************************************/
 /*! exports provided: buildASTSchema, ASTDefinitionBuilder, getDescription, buildSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -45358,9 +45358,9 @@ function buildSchema(source, options) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/buildClientSchema.mjs":
-/*!************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/buildClientSchema.mjs ***!
-  \************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/buildClientSchema.mjs ***!
+  \*********************************************************************************************************/
 /*! exports provided: buildClientSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -45671,9 +45671,9 @@ function buildClientSchema(introspection, options) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/coerceValue.mjs":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/coerceValue.mjs ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/coerceValue.mjs ***!
+  \***************************************************************************************************/
 /*! exports provided: coerceValue */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -45901,9 +45901,9 @@ function printPath(path) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/concatAST.mjs":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/concatAST.mjs ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/concatAST.mjs ***!
+  \*************************************************************************************************/
 /*! exports provided: concatAST */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -45931,9 +45931,9 @@ function concatAST(asts) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/extendSchema.mjs":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/extendSchema.mjs ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/extendSchema.mjs ***!
+  \****************************************************************************************************/
 /*! exports provided: extendSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -46355,9 +46355,9 @@ function extendSchema(schema, documentAST, options) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/findBreakingChanges.mjs":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/findBreakingChanges.mjs ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/findBreakingChanges.mjs ***!
+  \***********************************************************************************************************/
 /*! exports provided: BreakingChangeType, DangerousChangeType, findBreakingChanges, findDangerousChanges */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47273,9 +47273,9 @@ function diff(oldArray, newArray) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/findDeprecatedUsages.mjs":
-/*!***************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/findDeprecatedUsages.mjs ***!
-  \***************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/findDeprecatedUsages.mjs ***!
+  \************************************************************************************************************/
 /*! exports provided: findDeprecatedUsages */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47332,9 +47332,9 @@ function findDeprecatedUsages(schema, ast) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/getOperationAST.mjs":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/getOperationAST.mjs ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/getOperationAST.mjs ***!
+  \*******************************************************************************************************/
 /*! exports provided: getOperationAST */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47396,9 +47396,9 @@ function getOperationAST(documentAST, operationName) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/getOperationRootType.mjs":
-/*!***************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/getOperationRootType.mjs ***!
-  \***************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/getOperationRootType.mjs ***!
+  \************************************************************************************************************/
 /*! exports provided: getOperationRootType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47449,9 +47449,9 @@ function getOperationRootType(schema, operation) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/index.mjs":
-/*!************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/index.mjs ***!
-  \************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/index.mjs ***!
+  \*********************************************************************************************/
 /*! exports provided: getIntrospectionQuery, introspectionQuery, getOperationAST, getOperationRootType, introspectionFromSchema, buildClientSchema, buildASTSchema, buildSchema, getDescription, extendSchema, lexicographicSortSchema, printSchema, printType, printIntrospectionSchema, typeFromAST, valueFromAST, valueFromASTUntyped, astFromValue, TypeInfo, coerceValue, isValidJSValue, isValidLiteralValue, concatAST, separateOperations, stripIgnoredCharacters, isEqualType, isTypeSubTypeOf, doTypesOverlap, assertValidName, isValidNameError, BreakingChangeType, DangerousChangeType, findBreakingChanges, findDangerousChanges, findDeprecatedUsages */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47606,9 +47606,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/introspectionFromSchema.mjs":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/introspectionFromSchema.mjs ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/introspectionFromSchema.mjs ***!
+  \***************************************************************************************************************/
 /*! exports provided: introspectionFromSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47646,9 +47646,9 @@ function introspectionFromSchema(schema, options) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/introspectionQuery.mjs":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/introspectionQuery.mjs ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/introspectionQuery.mjs ***!
+  \**********************************************************************************************************/
 /*! exports provided: getIntrospectionQuery, introspectionQuery */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47672,9 +47672,9 @@ var introspectionQuery = getIntrospectionQuery();
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/isValidJSValue.mjs":
-/*!*********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/isValidJSValue.mjs ***!
-  \*********************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/isValidJSValue.mjs ***!
+  \******************************************************************************************************/
 /*! exports provided: isValidJSValue */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47701,9 +47701,9 @@ function isValidJSValue(value, type) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/isValidLiteralValue.mjs":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/isValidLiteralValue.mjs ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/isValidLiteralValue.mjs ***!
+  \***********************************************************************************************************/
 /*! exports provided: isValidLiteralValue */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47747,9 +47747,9 @@ function isValidLiteralValue(type, valueNode) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/lexicographicSortSchema.mjs":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/lexicographicSortSchema.mjs ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/lexicographicSortSchema.mjs ***!
+  \***************************************************************************************************************/
 /*! exports provided: lexicographicSortSchema */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -47933,9 +47933,9 @@ function sortBy(array, mapToKey) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/schemaPrinter.mjs":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/schemaPrinter.mjs ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/schemaPrinter.mjs ***!
+  \*****************************************************************************************************/
 /*! exports provided: printSchema, printIntrospectionSchema, printType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -48265,9 +48265,9 @@ function breakLine(line, maxLen) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/separateOperations.mjs":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/separateOperations.mjs ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/separateOperations.mjs ***!
+  \**********************************************************************************************************/
 /*! exports provided: separateOperations */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -48363,9 +48363,9 @@ function collectTransitiveDependencies(collected, depGraph, fromName) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/stripIgnoredCharacters.mjs":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/stripIgnoredCharacters.mjs ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/stripIgnoredCharacters.mjs ***!
+  \**************************************************************************************************************/
 /*! exports provided: stripIgnoredCharacters */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -48502,9 +48502,9 @@ function dedentBlockString(blockStr) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/typeComparators.mjs":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/typeComparators.mjs ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/typeComparators.mjs ***!
+  \*******************************************************************************************************/
 /*! exports provided: isEqualType, isTypeSubTypeOf, doTypesOverlap */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -48628,9 +48628,9 @@ function doTypesOverlap(schema, typeA, typeB) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/typeFromAST.mjs":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/typeFromAST.mjs ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/typeFromAST.mjs ***!
+  \***************************************************************************************************/
 /*! exports provided: typeFromAST */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -48671,9 +48671,9 @@ function typeFromAST(schema, typeNode) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/valueFromAST.mjs":
-/*!*******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/valueFromAST.mjs ***!
-  \*******************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/valueFromAST.mjs ***!
+  \****************************************************************************************************/
 /*! exports provided: valueFromAST */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -48913,9 +48913,9 @@ function isMissingVariable(valueNode, variables) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/utilities/valueFromASTUntyped.mjs":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/utilities/valueFromASTUntyped.mjs ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/utilities/valueFromASTUntyped.mjs ***!
+  \***********************************************************************************************************/
 /*! exports provided: valueFromASTUntyped */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -48992,9 +48992,9 @@ function valueFromASTUntyped(valueNode, variables) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/ValidationContext.mjs":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/ValidationContext.mjs ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/ValidationContext.mjs ***!
+  \**********************************************************************************************************/
 /*! exports provided: ASTValidationContext, SDLValidationContext, ValidationContext */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -49295,9 +49295,9 @@ function (_ASTValidationContext2) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/index.mjs":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/index.mjs ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/index.mjs ***!
+  \**********************************************************************************************/
 /*! exports provided: validate, ValidationContext, specifiedRules, FieldsOnCorrectTypeRule, FragmentsOnCompositeTypesRule, KnownArgumentNamesRule, KnownDirectivesRule, KnownFragmentNamesRule, KnownTypeNamesRule, LoneAnonymousOperationRule, NoFragmentCyclesRule, NoUndefinedVariablesRule, NoUnusedFragmentsRule, NoUnusedVariablesRule, OverlappingFieldsCanBeMergedRule, PossibleFragmentSpreadsRule, ProvidedRequiredArgumentsRule, ScalarLeafsRule, SingleFieldSubscriptionsRule, UniqueArgumentNamesRule, UniqueDirectivesPerLocationRule, UniqueFragmentNamesRule, UniqueInputFieldNamesRule, UniqueOperationNamesRule, UniqueVariableNamesRule, ValuesOfCorrectTypeRule, VariablesAreInputTypesRule, VariablesInAllowedPositionRule */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -49446,9 +49446,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/ExecutableDefinitions.mjs":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/ExecutableDefinitions.mjs ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/ExecutableDefinitions.mjs ***!
+  \********************************************************************************************************************/
 /*! exports provided: nonExecutableDefinitionMessage, ExecutableDefinitions */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -49511,9 +49511,9 @@ function ExecutableDefinitions(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/FieldsOnCorrectType.mjs":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/FieldsOnCorrectType.mjs ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/FieldsOnCorrectType.mjs ***!
+  \******************************************************************************************************************/
 /*! exports provided: undefinedFieldMessage, FieldsOnCorrectType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -49668,9 +49668,9 @@ function getSuggestedFieldNames(schema, type, fieldName) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.mjs":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.mjs ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.mjs ***!
+  \************************************************************************************************************************/
 /*! exports provided: inlineFragmentOnNonCompositeErrorMessage, fragmentOnNonCompositeErrorMessage, FragmentsOnCompositeTypes */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -49728,9 +49728,9 @@ function FragmentsOnCompositeTypes(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/KnownArgumentNames.mjs":
-/*!********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/KnownArgumentNames.mjs ***!
-  \********************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/KnownArgumentNames.mjs ***!
+  \*****************************************************************************************************************/
 /*! exports provided: unknownArgMessage, unknownDirectiveArgMessage, KnownArgumentNames, KnownArgumentNamesOnDirectives */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -49894,9 +49894,9 @@ function KnownArgumentNamesOnDirectives(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/KnownDirectives.mjs":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/KnownDirectives.mjs ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/KnownDirectives.mjs ***!
+  \**************************************************************************************************************/
 /*! exports provided: unknownDirectiveMessage, misplacedDirectiveMessage, KnownDirectives */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50084,9 +50084,9 @@ function getDirectiveLocationForASTPath(ancestors) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/KnownFragmentNames.mjs":
-/*!********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/KnownFragmentNames.mjs ***!
-  \********************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/KnownFragmentNames.mjs ***!
+  \*****************************************************************************************************************/
 /*! exports provided: unknownFragmentMessage, KnownFragmentNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50123,9 +50123,9 @@ function KnownFragmentNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/KnownTypeNames.mjs":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/KnownTypeNames.mjs ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/KnownTypeNames.mjs ***!
+  \*************************************************************************************************************/
 /*! exports provided: unknownTypeMessage, KnownTypeNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50221,9 +50221,9 @@ function isSDLNode(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/LoneAnonymousOperation.mjs":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/LoneAnonymousOperation.mjs ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/LoneAnonymousOperation.mjs ***!
+  \*********************************************************************************************************************/
 /*! exports provided: anonOperationNotAloneMessage, LoneAnonymousOperation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50265,9 +50265,9 @@ function LoneAnonymousOperation(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/LoneSchemaDefinition.mjs":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/LoneSchemaDefinition.mjs ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/LoneSchemaDefinition.mjs ***!
+  \*******************************************************************************************************************/
 /*! exports provided: schemaDefinitionNotAloneMessage, canNotDefineSchemaWithinExtensionMessage, LoneSchemaDefinition */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50314,9 +50314,9 @@ function LoneSchemaDefinition(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/NoFragmentCycles.mjs":
-/*!******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/NoFragmentCycles.mjs ***!
-  \******************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/NoFragmentCycles.mjs ***!
+  \***************************************************************************************************************/
 /*! exports provided: cycleErrorMessage, NoFragmentCycles */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50414,9 +50414,9 @@ function NoFragmentCycles(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/NoUndefinedVariables.mjs":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/NoUndefinedVariables.mjs ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/NoUndefinedVariables.mjs ***!
+  \*******************************************************************************************************************/
 /*! exports provided: undefinedVarMessage, NoUndefinedVariables */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50485,9 +50485,9 @@ function NoUndefinedVariables(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/NoUnusedFragments.mjs":
-/*!*******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/NoUnusedFragments.mjs ***!
-  \*******************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/NoUnusedFragments.mjs ***!
+  \****************************************************************************************************************/
 /*! exports provided: unusedFragMessage, NoUnusedFragments */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50567,9 +50567,9 @@ function NoUnusedFragments(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/NoUnusedVariables.mjs":
-/*!*******************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/NoUnusedVariables.mjs ***!
-  \*******************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/NoUnusedVariables.mjs ***!
+  \****************************************************************************************************************/
 /*! exports provided: unusedVariableMessage, NoUnusedVariables */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -50645,9 +50645,9 @@ function NoUnusedVariables(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.mjs":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.mjs ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.mjs ***!
+  \***************************************************************************************************************************/
 /*! exports provided: fieldsConflictMessage, OverlappingFieldsCanBeMerged */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51264,9 +51264,9 @@ function _pairSetAdd(data, a, b, areMutuallyExclusive) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/PossibleFragmentSpreads.mjs":
-/*!*************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/PossibleFragmentSpreads.mjs ***!
-  \*************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/PossibleFragmentSpreads.mjs ***!
+  \**********************************************************************************************************************/
 /*! exports provided: typeIncompatibleSpreadMessage, typeIncompatibleAnonSpreadMessage, PossibleFragmentSpreads */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51337,9 +51337,9 @@ function getFragmentType(context, name) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/PossibleTypeExtensions.mjs":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/PossibleTypeExtensions.mjs ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/PossibleTypeExtensions.mjs ***!
+  \*********************************************************************************************************************/
 /*! exports provided: extendingUnknownTypeMessage, extendingDifferentTypeKindMessage, PossibleTypeExtensions */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51493,9 +51493,9 @@ function extensionKindToTypeName(kind) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/ProvidedRequiredArguments.mjs":
-/*!***************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/ProvidedRequiredArguments.mjs ***!
-  \***************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/ProvidedRequiredArguments.mjs ***!
+  \************************************************************************************************************************/
 /*! exports provided: missingFieldArgMessage, missingDirectiveArgMessage, ProvidedRequiredArguments, ProvidedRequiredArgumentsOnDirectives */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51678,9 +51678,9 @@ function isRequiredArgumentNode(arg) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/ScalarLeafs.mjs":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/ScalarLeafs.mjs ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/ScalarLeafs.mjs ***!
+  \**********************************************************************************************************/
 /*! exports provided: noSubselectionAllowedMessage, requiredSubselectionMessage, ScalarLeafs */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51731,9 +51731,9 @@ function ScalarLeafs(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/SingleFieldSubscriptions.mjs":
-/*!**************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/SingleFieldSubscriptions.mjs ***!
-  \**************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/SingleFieldSubscriptions.mjs ***!
+  \***********************************************************************************************************************/
 /*! exports provided: singleFieldOnlyMessage, SingleFieldSubscriptions */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51768,9 +51768,9 @@ function SingleFieldSubscriptions(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueArgumentNames.mjs":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueArgumentNames.mjs ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueArgumentNames.mjs ***!
+  \******************************************************************************************************************/
 /*! exports provided: duplicateArgMessage, UniqueArgumentNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51817,9 +51817,9 @@ function UniqueArgumentNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueDirectiveNames.mjs":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueDirectiveNames.mjs ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueDirectiveNames.mjs ***!
+  \*******************************************************************************************************************/
 /*! exports provided: duplicateDirectiveNameMessage, existedDirectiveNameMessage, UniqueDirectiveNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -51869,9 +51869,9 @@ function UniqueDirectiveNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueDirectivesPerLocation.mjs":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueDirectivesPerLocation.mjs ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueDirectivesPerLocation.mjs ***!
+  \**************************************************************************************************************************/
 /*! exports provided: duplicateDirectiveMessage, UniqueDirectivesPerLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52002,9 +52002,9 @@ function UniqueDirectivesPerLocation(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueEnumValueNames.mjs":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueEnumValueNames.mjs ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueEnumValueNames.mjs ***!
+  \*******************************************************************************************************************/
 /*! exports provided: duplicateEnumValueNameMessage, existedEnumValueNameMessage, UniqueEnumValueNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52089,9 +52089,9 @@ function UniqueEnumValueNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueFieldDefinitionNames.mjs":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueFieldDefinitionNames.mjs ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueFieldDefinitionNames.mjs ***!
+  \*************************************************************************************************************************/
 /*! exports provided: duplicateFieldDefinitionNameMessage, existedFieldDefinitionNameMessage, UniqueFieldDefinitionNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52187,9 +52187,9 @@ function hasField(type, fieldName) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueFragmentNames.mjs":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueFragmentNames.mjs ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueFragmentNames.mjs ***!
+  \******************************************************************************************************************/
 /*! exports provided: duplicateFragmentNameMessage, UniqueFragmentNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52232,9 +52232,9 @@ function UniqueFragmentNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueInputFieldNames.mjs":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueInputFieldNames.mjs ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueInputFieldNames.mjs ***!
+  \********************************************************************************************************************/
 /*! exports provided: duplicateInputFieldMessage, UniqueInputFieldNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52283,9 +52283,9 @@ function UniqueInputFieldNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueOperationNames.mjs":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueOperationNames.mjs ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueOperationNames.mjs ***!
+  \*******************************************************************************************************************/
 /*! exports provided: duplicateOperationNameMessage, UniqueOperationNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52330,9 +52330,9 @@ function UniqueOperationNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueOperationTypes.mjs":
-/*!**********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueOperationTypes.mjs ***!
-  \**********************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueOperationTypes.mjs ***!
+  \*******************************************************************************************************************/
 /*! exports provided: duplicateOperationTypeMessage, existedOperationTypeMessage, UniqueOperationTypes */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52412,9 +52412,9 @@ function UniqueOperationTypes(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueTypeNames.mjs":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueTypeNames.mjs ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueTypeNames.mjs ***!
+  \**************************************************************************************************************/
 /*! exports provided: duplicateTypeNameMessage, existedTypeNameMessage, UniqueTypeNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52471,9 +52471,9 @@ function UniqueTypeNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/UniqueVariableNames.mjs":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/UniqueVariableNames.mjs ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/UniqueVariableNames.mjs ***!
+  \******************************************************************************************************************/
 /*! exports provided: duplicateVariableMessage, UniqueVariableNames */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52514,9 +52514,9 @@ function UniqueVariableNames(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/ValuesOfCorrectType.mjs":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/ValuesOfCorrectType.mjs ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/ValuesOfCorrectType.mjs ***!
+  \******************************************************************************************************************/
 /*! exports provided: badValueMessage, badEnumValueMessage, requiredFieldMessage, unknownFieldMessage, ValuesOfCorrectType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52704,9 +52704,9 @@ function enumTypeSuggestion(type, node) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/VariablesAreInputTypes.mjs":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/VariablesAreInputTypes.mjs ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/VariablesAreInputTypes.mjs ***!
+  \*********************************************************************************************************************/
 /*! exports provided: nonInputTypeOnVarMessage, VariablesAreInputTypes */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52749,9 +52749,9 @@ function VariablesAreInputTypes(context) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/rules/VariablesInAllowedPosition.mjs":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/rules/VariablesInAllowedPosition.mjs ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/rules/VariablesInAllowedPosition.mjs ***!
+  \*************************************************************************************************************************/
 /*! exports provided: badVarPosMessage, VariablesInAllowedPosition */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52861,9 +52861,9 @@ function allowedVariableUsage(schema, varType, varDefaultValue, locationType, lo
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/specifiedRules.mjs":
-/*!**********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/specifiedRules.mjs ***!
-  \**********************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/specifiedRules.mjs ***!
+  \*******************************************************************************************************/
 /*! exports provided: specifiedRules, specifiedSDLRules */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -52978,9 +52978,9 @@ var specifiedSDLRules = Object.freeze([_rules_LoneSchemaDefinition__WEBPACK_IMPO
 /***/ }),
 
 /***/ "../../node_modules/graphql/validation/validate.mjs":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/validation/validate.mjs ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/validation/validate.mjs ***!
+  \*************************************************************************************************/
 /*! exports provided: validate, validateSDL, assertValidSDL, assertValidSDLExtension */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -53082,9 +53082,9 @@ function assertValidSDLExtension(documentAST, schema) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/version.mjs":
-/*!****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/graphql/version.mjs ***!
-  \****************************************************************/
+/*!*************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/graphql/version.mjs ***!
+  \*************************************************************************************/
 /*! exports provided: version, versionInfo */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -53116,9 +53116,9 @@ var versionInfo = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/has-symbols/index.js":
-/*!*****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/has-symbols/index.js ***!
-  \*****************************************************************/
+/*!**************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/has-symbols/index.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53141,9 +53141,9 @@ module.exports = function hasNativeSymbols() {
 /***/ }),
 
 /***/ "../../node_modules/has-symbols/shams.js":
-/*!*****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/has-symbols/shams.js ***!
-  \*****************************************************************/
+/*!**************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/has-symbols/shams.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53195,9 +53195,9 @@ module.exports = function hasSymbols() {
 /***/ }),
 
 /***/ "../../node_modules/has/src/index.js":
-/*!*************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/has/src/index.js ***!
-  \*************************************************************/
+/*!**********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/has/src/index.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53212,9 +53212,9 @@ module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 /***/ }),
 
 /***/ "../../node_modules/http-cache-semantics/index.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/http-cache-semantics/index.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/http-cache-semantics/index.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53877,9 +53877,9 @@ module.exports = class CachePolicy {
 /***/ }),
 
 /***/ "../../node_modules/inherits/inherits.js":
-/*!*****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/inherits/inherits.js ***!
-  \*****************************************************************/
+/*!**************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/inherits/inherits.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53897,9 +53897,9 @@ try {
 /***/ }),
 
 /***/ "../../node_modules/inherits/inherits_browser.js":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/inherits/inherits_browser.js ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/inherits/inherits_browser.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -53935,9 +53935,9 @@ if (typeof Object.create === 'function') {
 /***/ }),
 
 /***/ "../../node_modules/is-callable/index.js":
-/*!*****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/is-callable/index.js ***!
-  \*****************************************************************/
+/*!**************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/is-callable/index.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53984,9 +53984,9 @@ module.exports = function isCallable(value) {
 /***/ }),
 
 /***/ "../../node_modules/is-date-object/index.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/is-date-object/index.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/is-date-object/index.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54016,9 +54016,9 @@ module.exports = function isDateObject(value) {
 /***/ }),
 
 /***/ "../../node_modules/is-regex/index.js":
-/*!**************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/is-regex/index.js ***!
-  \**************************************************************/
+/*!***********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/is-regex/index.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54067,9 +54067,9 @@ module.exports = function isRegex(value) {
 /***/ }),
 
 /***/ "../../node_modules/is-symbol/index.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/is-symbol/index.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/is-symbol/index.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54114,9 +54114,9 @@ if (hasSymbols) {
 /***/ }),
 
 /***/ "../../node_modules/iterall/index.mjs":
-/*!**************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/iterall/index.mjs ***!
-  \**************************************************************/
+/*!***********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/iterall/index.mjs ***!
+  \***********************************************************************************/
 /*! exports provided: $$iterator, isIterable, isArrayLike, isCollection, getIterator, getIteratorMethod, createIterator, forEach, $$asyncIterator, isAsyncIterable, getAsyncIterator, getAsyncIteratorMethod, createAsyncIterator, forAwaitEach */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -54843,9 +54843,9 @@ function forAwaitEach(source, callback, thisArg) {
 /***/ }),
 
 /***/ "../../node_modules/lodash.sortby/index.js":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/lodash.sortby/index.js ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/lodash.sortby/index.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -57485,9 +57485,9 @@ module.exports = sortBy;
 /***/ }),
 
 /***/ "../../node_modules/lru-cache/index.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/lru-cache/index.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/lru-cache/index.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -57899,9 +57899,9 @@ module.exports = function(module) {
 /***/ }),
 
 /***/ "../../node_modules/node-fetch/lib/index.mjs":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/node-fetch/lib/index.mjs ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/node-fetch/lib/index.mjs ***!
+  \******************************************************************************************/
 /*! exports provided: default, Headers, Request, Response, FetchError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -59552,9 +59552,9 @@ fetch.Promise = global.Promise;
 /***/ }),
 
 /***/ "../../node_modules/object-keys/implementation.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object-keys/implementation.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object-keys/implementation.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -59686,9 +59686,9 @@ module.exports = keysShim;
 /***/ }),
 
 /***/ "../../node_modules/object-keys/index.js":
-/*!*****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object-keys/index.js ***!
-  \*****************************************************************/
+/*!**************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object-keys/index.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -59730,9 +59730,9 @@ module.exports = keysShim;
 /***/ }),
 
 /***/ "../../node_modules/object-keys/isArguments.js":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object-keys/isArguments.js ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object-keys/isArguments.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -59759,9 +59759,9 @@ module.exports = function isArguments(value) {
 /***/ }),
 
 /***/ "../../node_modules/object-path/index.js":
-/*!*****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object-path/index.js ***!
-  \*****************************************************************/
+/*!**************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object-path/index.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60062,9 +60062,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
 /***/ }),
 
 /***/ "../../node_modules/object.getownpropertydescriptors/implementation.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object.getownpropertydescriptors/implementation.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object.getownpropertydescriptors/implementation.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60118,9 +60118,9 @@ module.exports = function getOwnPropertyDescriptors(value) {
 /***/ }),
 
 /***/ "../../node_modules/object.getownpropertydescriptors/index.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object.getownpropertydescriptors/index.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object.getownpropertydescriptors/index.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60145,9 +60145,9 @@ module.exports = implementation;
 /***/ }),
 
 /***/ "../../node_modules/object.getownpropertydescriptors/polyfill.js":
-/*!*****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object.getownpropertydescriptors/polyfill.js ***!
-  \*****************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object.getownpropertydescriptors/polyfill.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60164,9 +60164,9 @@ module.exports = function getPolyfill() {
 /***/ }),
 
 /***/ "../../node_modules/object.getownpropertydescriptors/shim.js":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/object.getownpropertydescriptors/shim.js ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/object.getownpropertydescriptors/shim.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60190,9 +60190,9 @@ module.exports = function shimGetOwnPropertyDescriptors() {
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/minimal.js":
-/*!******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/minimal.js ***!
-  \******************************************************************/
+/*!***************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/minimal.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60206,9 +60206,9 @@ module.exports = __webpack_require__(/*! ./src/index-minimal */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/index-minimal.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/index-minimal.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/index-minimal.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60254,9 +60254,9 @@ configure();
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/reader.js":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/reader.js ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/reader.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60671,9 +60671,9 @@ Reader._configure = function(BufferReader_) {
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/reader_buffer.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/reader_buffer.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/reader_buffer.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60727,9 +60727,9 @@ BufferReader.prototype.string = function read_string_buffer() {
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/roots.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/roots.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/roots.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60757,9 +60757,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/rpc.js":
-/*!******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/rpc.js ***!
-  \******************************************************************/
+/*!***************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/rpc.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60805,9 +60805,9 @@ rpc.Service = __webpack_require__(/*! ./rpc/service */ "../../node_modules/proto
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/rpc/service.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/rpc/service.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/rpc/service.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -60959,9 +60959,9 @@ Service.prototype.end = function end(endedByRPC) {
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/util/longbits.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/util/longbits.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/util/longbits.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -61171,9 +61171,9 @@ LongBits.prototype.length = function length() {
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/util/minimal.js":
-/*!***************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/util/minimal.js ***!
-  \***************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/util/minimal.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -61597,9 +61597,9 @@ util._configure = function() {
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/writer.js":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/writer.js ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/writer.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62068,9 +62068,9 @@ Writer._configure = function(BufferWriter_) {
 /***/ }),
 
 /***/ "../../node_modules/protobufjs/src/writer_buffer.js":
-/*!****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/protobufjs/src/writer_buffer.js ***!
-  \****************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/protobufjs/src/writer_buffer.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62161,9 +62161,9 @@ BufferWriter.prototype.string = function write_string_buffer(value) {
 /***/ }),
 
 /***/ "../../node_modules/retry/index.js":
-/*!***********************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/retry/index.js ***!
-  \***********************************************************/
+/*!********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/retry/index.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62172,9 +62172,9 @@ module.exports = __webpack_require__(/*! ./lib/retry */ "../../node_modules/retr
 /***/ }),
 
 /***/ "../../node_modules/retry/lib/retry.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/retry/lib/retry.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/retry/lib/retry.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62283,9 +62283,9 @@ exports.wrap = function(obj, options, methods) {
 /***/ }),
 
 /***/ "../../node_modules/retry/lib/retry_operation.js":
-/*!*************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/retry/lib/retry_operation.js ***!
-  \*************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/retry/lib/retry_operation.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -62452,9 +62452,9 @@ RetryOperation.prototype.mainError = function() {
 /***/ }),
 
 /***/ "../../node_modules/safe-buffer/index.js":
-/*!*****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/safe-buffer/index.js ***!
-  \*****************************************************************/
+/*!**************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/safe-buffer/index.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62525,9 +62525,9 @@ SafeBuffer.allocUnsafeSlow = function (size) {
 /***/ }),
 
 /***/ "../../node_modules/setprototypeof/index.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/setprototypeof/index.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/setprototypeof/index.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62554,9 +62554,9 @@ function mixinProperties (obj, proto) {
 /***/ }),
 
 /***/ "../../node_modules/sha.js/hash.js":
-/*!***********************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/hash.js ***!
-  \***********************************************************/
+/*!********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/hash.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62646,9 +62646,9 @@ module.exports = Hash
 /***/ }),
 
 /***/ "../../node_modules/sha.js/index.js":
-/*!************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/index.js ***!
-  \************************************************************/
+/*!*********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/index.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62672,9 +62672,9 @@ exports.sha512 = __webpack_require__(/*! ./sha512 */ "../../node_modules/sha.js/
 /***/ }),
 
 /***/ "../../node_modules/sha.js/sha.js":
-/*!**********************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/sha.js ***!
-  \**********************************************************/
+/*!*******************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/sha.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62777,9 +62777,9 @@ module.exports = Sha
 /***/ }),
 
 /***/ "../../node_modules/sha.js/sha1.js":
-/*!***********************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/sha1.js ***!
-  \***********************************************************/
+/*!********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/sha1.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62887,9 +62887,9 @@ module.exports = Sha1
 /***/ }),
 
 /***/ "../../node_modules/sha.js/sha224.js":
-/*!*************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/sha224.js ***!
-  \*************************************************************/
+/*!**********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/sha224.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -62951,9 +62951,9 @@ module.exports = Sha224
 /***/ }),
 
 /***/ "../../node_modules/sha.js/sha256.js":
-/*!*************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/sha256.js ***!
-  \*************************************************************/
+/*!**********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/sha256.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -63097,9 +63097,9 @@ module.exports = Sha256
 /***/ }),
 
 /***/ "../../node_modules/sha.js/sha384.js":
-/*!*************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/sha384.js ***!
-  \*************************************************************/
+/*!**********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/sha384.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -63165,9 +63165,9 @@ module.exports = Sha384
 /***/ }),
 
 /***/ "../../node_modules/sha.js/sha512.js":
-/*!*************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/sha.js/sha512.js ***!
-  \*************************************************************/
+/*!**********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/sha.js/sha512.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -63436,9 +63436,9 @@ module.exports = Sha512
 /***/ }),
 
 /***/ "../../node_modules/statuses/codes.json":
-/*!****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/statuses/codes.json ***!
-  \****************************************************************/
+/*!*************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/statuses/codes.json ***!
+  \*************************************************************************************/
 /*! exports provided: 100, 101, 102, 103, 200, 201, 202, 203, 204, 205, 206, 207, 208, 226, 300, 301, 302, 303, 304, 305, 306, 307, 308, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 421, 422, 423, 424, 425, 426, 428, 429, 431, 451, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, default */
 /***/ (function(module) {
 
@@ -63447,9 +63447,9 @@ module.exports = JSON.parse("{\"100\":\"Continue\",\"101\":\"Switching Protocols
 /***/ }),
 
 /***/ "../../node_modules/statuses/index.js":
-/*!**************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/statuses/index.js ***!
-  \**************************************************************/
+/*!***********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/statuses/index.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -63572,9 +63572,9 @@ function status (code) {
 /***/ }),
 
 /***/ "../../node_modules/streamsearch/lib/sbmh.js":
-/*!*********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/streamsearch/lib/sbmh.js ***!
-  \*********************************************************************/
+/*!******************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/streamsearch/lib/sbmh.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -63796,9 +63796,9 @@ module.exports = SBMH;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/client.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/client.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/client.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64347,9 +64347,9 @@ exports.SubscriptionClient = SubscriptionClient;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/defaults.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/defaults.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/defaults.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64363,9 +64363,9 @@ exports.WS_TIMEOUT = WS_TIMEOUT;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/index.js":
-/*!*************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/index.js ***!
-  \*************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/index.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64384,9 +64384,9 @@ __export(__webpack_require__(/*! ./protocol */ "../../node_modules/subscriptions
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/legacy/parse-legacy-protocol.js":
-/*!************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/legacy/parse-legacy-protocol.js ***!
-  \************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/legacy/parse-legacy-protocol.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64463,9 +64463,9 @@ exports.parseLegacyProtocolMessage = function (connectionContext, message) {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/message-types.js":
-/*!*********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/message-types.js ***!
-  \*********************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/message-types.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64503,9 +64503,9 @@ exports.default = MessageTypes;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/protocol.js":
-/*!****************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/protocol.js ***!
-  \****************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/protocol.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64521,9 +64521,9 @@ exports.GRAPHQL_SUBSCRIPTIONS = GRAPHQL_SUBSCRIPTIONS;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/server.js":
-/*!**************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/server.js ***!
-  \**************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/server.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64831,9 +64831,9 @@ exports.SubscriptionServer = SubscriptionServer;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js":
-/*!****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64864,9 +64864,9 @@ exports.createEmptyIterable = function () {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/utils/is-object.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/is-object.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/is-object.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64882,9 +64882,9 @@ exports.default = isObject;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/utils/is-string.js":
-/*!***********************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/is-string.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/is-string.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64900,9 +64900,9 @@ exports.default = isString;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/dist/utils/is-subscriptions.js":
-/*!******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/is-subscriptions.js ***!
-  \******************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/dist/utils/is-subscriptions.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64919,9 +64919,9 @@ exports.isASubscriptionOperation = function (document, operationName) {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/index.js":
-/*!************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/index.js ***!
-  \************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -64940,9 +64940,9 @@ module.exports = WebSocket;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/buffer-util.js":
-/*!**********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/buffer-util.js ***!
-  \**********************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/buffer-util.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -65024,9 +65024,9 @@ try {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/constants.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/constants.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/constants.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -65046,9 +65046,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/event-target.js":
-/*!***********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/event-target.js ***!
-  \***********************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/event-target.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -65228,9 +65228,9 @@ module.exports = EventTarget;
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/extension.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/extension.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/extension.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -65451,9 +65451,9 @@ module.exports = { format, parse };
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/permessage-deflate.js":
-/*!*****************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/permessage-deflate.js ***!
-  \*****************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/permessage-deflate.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -65979,9 +65979,9 @@ function inflateOnError (err) {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/receiver.js":
-/*!*******************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/receiver.js ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/receiver.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -66504,9 +66504,9 @@ function toArrayBuffer (buf) {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/sender.js":
-/*!*****************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/sender.js ***!
-  \*****************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/sender.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -66917,9 +66917,9 @@ function viewToBuffer (view) {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/validation.js":
-/*!*********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/validation.js ***!
-  \*********************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/validation.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -66958,9 +66958,9 @@ exports.isValidStatusCode = (code) => {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket-server.js":
-/*!***************************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket-server.js ***!
-  \***************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket-server.js ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -67327,9 +67327,9 @@ function abortHandshake (socket, code, message, headers) {
 /***/ }),
 
 /***/ "../../node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js":
-/*!********************************************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js ***!
-  \********************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/subscriptions-transport-ws/node_modules/ws/lib/websocket.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68167,9 +68167,9 @@ function socketOnError () {
 /***/ }),
 
 /***/ "../../node_modules/symbol-observable/es/index.js":
-/*!**************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/symbol-observable/es/index.js ***!
-  \**************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/symbol-observable/es/index.js ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -68199,9 +68199,9 @@ var result = Object(_ponyfill_js__WEBPACK_IMPORTED_MODULE_0__["default"])(root);
 /***/ }),
 
 /***/ "../../node_modules/symbol-observable/es/ponyfill.js":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/symbol-observable/es/ponyfill.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/symbol-observable/es/ponyfill.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -68230,9 +68230,9 @@ function symbolObservablePonyfill(root) {
 /***/ }),
 
 /***/ "../../node_modules/toidentifier/index.js":
-/*!******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/toidentifier/index.js ***!
-  \******************************************************************/
+/*!***************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/toidentifier/index.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -68271,9 +68271,9 @@ function toIdentifier (str) {
 /***/ }),
 
 /***/ "../../node_modules/ts-invariant/lib/invariant.esm.js":
-/*!******************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/ts-invariant/lib/invariant.esm.js ***!
-  \******************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/ts-invariant/lib/invariant.esm.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default, InvariantError, invariant, process */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -68350,9 +68350,9 @@ var invariant$1 = invariant;
 /***/ }),
 
 /***/ "../../node_modules/tslib/tslib.es6.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/tslib/tslib.es6.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/tslib/tslib.es6.js ***!
+  \************************************************************************************/
 /*! exports provided: __extends, __assign, __rest, __decorate, __param, __metadata, __awaiter, __generator, __exportStar, __values, __read, __spread, __spreadArrays, __await, __asyncGenerator, __asyncDelegator, __asyncValues, __makeTemplateObject, __importStar, __importDefault */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -68579,9 +68579,9 @@ function __importDefault(mod) {
 /***/ }),
 
 /***/ "../../node_modules/util.promisify/implementation.js":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/util.promisify/implementation.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/util.promisify/implementation.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68677,9 +68677,9 @@ module.exports.customPromisifyArgs = kCustomPromisifyArgsSymbol;
 /***/ }),
 
 /***/ "../../node_modules/util.promisify/index.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/util.promisify/index.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/util.promisify/index.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68713,9 +68713,9 @@ module.exports = boundPromisify;
 /***/ }),
 
 /***/ "../../node_modules/util.promisify/polyfill.js":
-/*!***********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/util.promisify/polyfill.js ***!
-  \***********************************************************************/
+/*!********************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/util.promisify/polyfill.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68736,9 +68736,9 @@ module.exports = function getPolyfill() {
 /***/ }),
 
 /***/ "../../node_modules/util.promisify/shim.js":
-/*!*******************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/util.promisify/shim.js ***!
-  \*******************************************************************/
+/*!****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/util.promisify/shim.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68761,9 +68761,9 @@ module.exports = function shimUtilPromisify() {
 /***/ }),
 
 /***/ "../../node_modules/uuid/index.js":
-/*!**********************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/uuid/index.js ***!
-  \**********************************************************/
+/*!*******************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/uuid/index.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68780,9 +68780,9 @@ module.exports = uuid;
 /***/ }),
 
 /***/ "../../node_modules/uuid/lib/bytesToUuid.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/uuid/lib/bytesToUuid.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/uuid/lib/bytesToUuid.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -68815,9 +68815,9 @@ module.exports = bytesToUuid;
 /***/ }),
 
 /***/ "../../node_modules/uuid/lib/rng.js":
-/*!************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/uuid/lib/rng.js ***!
-  \************************************************************/
+/*!*********************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/uuid/lib/rng.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68834,9 +68834,9 @@ module.exports = function nodeRNG() {
 /***/ }),
 
 /***/ "../../node_modules/uuid/v1.js":
-/*!*******************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/uuid/v1.js ***!
-  \*******************************************************/
+/*!****************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/uuid/v1.js ***!
+  \****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68954,9 +68954,9 @@ module.exports = v1;
 /***/ }),
 
 /***/ "../../node_modules/uuid/v4.js":
-/*!*******************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/uuid/v4.js ***!
-  \*******************************************************/
+/*!****************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/uuid/v4.js ***!
+  \****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68994,9 +68994,9 @@ module.exports = v4;
 /***/ }),
 
 /***/ "../../node_modules/yallist/iterator.js":
-/*!****************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/yallist/iterator.js ***!
-  \****************************************************************/
+/*!*************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/yallist/iterator.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -69014,9 +69014,9 @@ module.exports = function (Yallist) {
 /***/ }),
 
 /***/ "../../node_modules/yallist/yallist.js":
-/*!***************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/yallist/yallist.js ***!
-  \***************************************************************/
+/*!************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/yallist/yallist.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -69402,9 +69402,9 @@ try {
 /***/ }),
 
 /***/ "../../node_modules/zen-observable-ts/lib/bundle.esm.js":
-/*!********************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/zen-observable-ts/lib/bundle.esm.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/zen-observable-ts/lib/bundle.esm.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: default, Observable */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -69425,9 +69425,9 @@ var Observable = zen_observable__WEBPACK_IMPORTED_MODULE_0___default.a;
 /***/ }),
 
 /***/ "../../node_modules/zen-observable/index.js":
-/*!********************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/zen-observable/index.js ***!
-  \********************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/zen-observable/index.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -69437,9 +69437,9 @@ module.exports = __webpack_require__(/*! ./lib/Observable.js */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/zen-observable/lib/Observable.js":
-/*!*****************************************************************************!*\
-  !*** /home/crist/gatsby-rest/node_modules/zen-observable/lib/Observable.js ***!
-  \*****************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /mnt/c/Users/user/react-projects/gatsby-rest/node_modules/zen-observable/lib/Observable.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -70076,16 +70076,19 @@ class LobbyAPI extends RESTDataSource {
     this.httpCache = new HTTPCache();
   }
 
-  async getAllDonativos(page, institucionId) {
-    const donations = await this.get('donativos/', {
+  async getAllDonations(page, institutionId) {
+    const params = {
       page,
-      institucionId
-    });
+      institucion: institutionId // Remove undefined  params (weren't given in the query)
+
+    };
+    Object.entries(params).forEach(o => o[1] === undefined ? delete params[o[0]] : 0);
+    const donations = await this.get('donativos/', params);
     return donations.data;
   }
 
-  async getADonativo(donativoId) {
-    const result = await this.get(`donativos/${donativoId}`);
+  async getADonation(donationId) {
+    const result = await this.get(`donativos/${donationId}`);
     return result;
   }
 
@@ -70106,34 +70109,36 @@ module.exports = {
 
 const resolvers = {
   Query: {
-    donativo: async (parent, {
-      donativoId
+    donation: async (parent, {
+      donationId
     }, {
       dataSources
     }) => {
-      const donativo = await dataSources.lobbyAPI.getADonativo(donativoId);
+      const donation = await dataSources.lobbyAPI.getADonation(donationId);
       return {
-        donativo: {
-          id_donativo: donativo.id_donativo,
-          nombres: donativo.nombres,
-          apellidos: donativo.apellidos,
-          pais: donativo.pais,
-          cargo: donativo.cargo,
-          ocasion: donativo.ocasion,
-          descripcion: donativo.descripcion,
-          fecha: donativo.fecha,
-          nombre_institucion: donativo.institucion.nombre
+        data: {
+          id_donativo: donation.id_donativo,
+          nombres: donation.nombres,
+          apellidos: donation.apellidos,
+          pais: donation.pais,
+          cargo: donation.cargo,
+          ocasion: donation.ocasion,
+          descripcion: donation.descripcion,
+          fecha: donation.fecha,
+          nombre_institucion: donation.institucion.nombre
         },
-        donantes: donativo.donantes
+        donors: donation.donantes
       };
     },
-    donativos: async (parent, args, {
+    donations: async (parent, args, {
       dataSources
     }) => {
-      const page = args.page || null;
-      const institucionId = args.institucionId || null;
-      const donativos = await dataSources.lobbyAPI.getAllDonativos(page, institucionId);
-      return donativos;
+      const {
+        page,
+        institutionId
+      } = args;
+      const donations = await dataSources.lobbyAPI.getAllDonations(page, institutionId);
+      return donations;
     }
   }
 };
@@ -70163,12 +70168,13 @@ const typeDefs = gql`
   scalar DateTime
 
   type Query {
-    donativos(page: Int, donativoId: Int): [Donativo!]!
-    donativo(donativoId: Int!): DonativoDetalle!
+    donations(page: Int, institutionId: Int): [Donation!]!
+    donation(donationId: Int!): DonationDetail!
   }
 
-  type Donativo {
+  type Donation {
     id_donativo: Int!
+    id_institucion: Int!
     nombres: String!
     apellidos: String!
     pais: String
@@ -70179,22 +70185,22 @@ const typeDefs = gql`
     nombre_institucion: String
   }
 
-  type DonativoDetalle {
-    donativo: Donativo!
-    donantes: [Donante!]!
+  type DonationDetail {
+    data: Donation!
+    donors: [Donor!]!
   }
 
-  type Donante {
+  type Donor {
     id_donativo: Int!
     nombre: String!
-      pais: String!
-      tipo: String!
-      giro: String
-      actividades: String
-      domicilio: String
-      representante_legal: String
-      naturaleza: String
-      directorio: String
+    pais: String!
+    tipo: String!
+    giro: String
+    actividades: String
+    domicilio: String
+    representante_legal: String
+    naturaleza: String
+    directorio: String
   }
 `;
 const server = new ApolloServer({

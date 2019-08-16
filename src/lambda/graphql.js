@@ -13,6 +13,7 @@ const typeDefs = gql`
 
   type Donation {
     id_donativo: Int!
+    id_institucion: Int!
     nombres: String!
     apellidos: String!
     pais: String
@@ -24,8 +25,8 @@ const typeDefs = gql`
   }
 
   type DonationDetail {
-    donation: Donation!
-    donantes: [Donor!]!
+    data: Donation!
+    donors: [Donor!]!
   }
 
   type Donor {

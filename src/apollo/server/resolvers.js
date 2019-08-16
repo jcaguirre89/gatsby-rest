@@ -3,7 +3,7 @@ const resolvers = {
     donation: async (parent, { donationId }, { dataSources }) => {
       const donation = await dataSources.lobbyAPI.getADonation(donationId);
       return {
-        donativo: {
+        data: {
           id_donativo: donation.id_donativo,
           nombres: donation.nombres,
           apellidos: donation.apellidos,
@@ -14,12 +14,15 @@ const resolvers = {
           fecha: donation.fecha,
           nombre_institucion: donation.institucion.nombre,
         },
-        donantes: donation.donantes
+        donors: donation.donantes
       }
     },
     donations: async (parent, args, { dataSources }) => {
       const { page, institutionId } = args
-      const donativos = await dataSources.lobbyAPI.getAllDonativos(page, institutionId);
+      const donations = await dataSources.lobbyAPI.getAllDonations(
+        page,
+        institutionId
+      )
       return donations;
     },
   }

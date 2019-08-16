@@ -8,10 +8,12 @@ class LobbyAPI extends RESTDataSource {
   }
 
   async getAllDonations(page, institutionId) {
-    const donations = await this.get('donativos/', {
-      page,
-      institutionId,
-    });
+    const params = {page, institucion: institutionId}
+    // Remove undefined  params (weren't given in the query)
+    Object.entries(params).forEach(o =>
+      o[1] === undefined ? delete params[o[0]] : 0
+    )
+    const donations = await this.get('donativos/', params);
     return donations.data;
   }
 
